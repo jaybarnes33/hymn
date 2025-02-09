@@ -15,7 +15,7 @@ web-build/
 *.p12
 *.key
 *.mobileprovision
-
+venv
 # Metro
 .metro-health-check*
 
@@ -39,3 +39,6 @@ yarn-error.*
 
 expo-env.d.ts
 # @end expo-cli
+
+android
+ios
