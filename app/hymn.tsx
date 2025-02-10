@@ -44,7 +44,6 @@ const Details = () => {
 
   return (
     <LinearGradient colors={["#3b82f6", "#2563eb"]} style={{ flex: 1 }}>
-      <StatusBar style="light" />
       <SafeAreaView>
         <View className="px-4 py-3 flex-row justify-between items-center">
           <TouchableOpacity

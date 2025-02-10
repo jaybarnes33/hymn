@@ -1,13 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import {
-  TextInput,
-  FlatList,
-  TouchableOpacity,
-  View,
-  Text,
-} from "react-native";
+import { TextInput, TouchableOpacity, View, Text } from "react-native";
+import { FlashList } from "@shopify/flash-list";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { Feather, Ionicons } from "@expo/vector-icons";
 import { hymns } from "@/data/hymns";
@@ -53,7 +48,6 @@ export default function Search() {
 
   return (
     <LinearGradient style={{ flex: 1 }} colors={["#3b82f6", "#2563eb"]}>
-      <StatusBar style="light" />
       <SafeAreaView className="flex-1 relative ">
         <View>
           <View className="p-5  rounded-xl  gap-y-4">
@@ -121,9 +115,10 @@ export default function Search() {
             </TouchableOpacity>
           </View>
 
-          <FlatList
+          <FlashList
             //@ts-ignore
             data={displayedResults}
+            estimatedItemSize={100}
             keyExtractor={(item) => item.number}
             contentContainerStyle={{ paddingBottom: 500 }}
             renderItem={({ item }) => {
