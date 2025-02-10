@@ -44,6 +44,7 @@ export default function Search() {
       const likedSongs = JSON.parse(
         (await AsyncStorage.getItem("likedSongs")) || "[]"
       );
+      //@ts-ignore
       setLiked(results.filter((item) => likedSongs.includes(item.number)));
     })();
   }, [results]);
@@ -52,8 +53,9 @@ export default function Search() {
 
   return (
     <LinearGradient style={{ flex: 1 }} colors={["#3b82f6", "#2563eb"]}>
+      <StatusBar style="light" />
       <SafeAreaView className="flex-1 relative ">
-        <View className="rounded-b-3xl   shadow-lg">
+        <View>
           <View className="p-5  rounded-xl  gap-y-4">
             <View className="bg-white/20 rounded-2xl flex-row items-center px-4 backdrop-blur-lg">
               <Feather name="search" size={20} color="#fff" />
@@ -120,6 +122,7 @@ export default function Search() {
           </View>
 
           <FlatList
+            //@ts-ignore
             data={displayedResults}
             keyExtractor={(item) => item.number}
             contentContainerStyle={{ paddingBottom: 500 }}
@@ -141,7 +144,7 @@ export default function Search() {
                   <Text className="font-semibold text-xl w-12">
                     {item.number}.
                   </Text>
-                  <Text className="flex-1 text-xl capitalize font-medium">
+                  <Text className="flex-1 text-xl capitalize ">
                     {item[language].title}
                   </Text>
                 </TouchableOpacity>

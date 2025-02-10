@@ -707,7 +707,7 @@ export const hymns = [
       title: "monsuro kuo ketewa",
       content: [
         [
-          "1, monsuro kuo ketewa",
+          "Monsuro kuo ketewa",
           "Agyenkwa no aka sε",
           "Agya no de ahenie no bεma mo",
           "Monnfa fam ha bone",
@@ -716,7 +716,6 @@ export const hymns = [
         ],
         [
           "Nyesoɔ",
-
           "Fitaa paa ara (Me pε saa m’aye Agyenkwa)",
           "Fitaa paa ara (Me pε m’ayε)",
           "Fitaa paa ara (Me pε saa m’ayε Agyenkwa)",

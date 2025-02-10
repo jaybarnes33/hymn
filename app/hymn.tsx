@@ -1,5 +1,3 @@
-"use client";
-
 import { View, Text, TouchableOpacity, ScrollView } from "react-native";
 import React, { useEffect } from "react";
 import { useLocalSearchParams, useRouter } from "expo-router";
@@ -8,6 +6,8 @@ import { Hymn } from "@/types";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { LinearGradient } from "expo-linear-gradient";
+import { StatusBar } from "expo-status-bar";
+import clsx from "clsx";
 
 const Details = () => {
   const { content, language = "twi" } = useLocalSearchParams() as {
@@ -44,6 +44,7 @@ const Details = () => {
 
   return (
     <LinearGradient colors={["#3b82f6", "#2563eb"]} style={{ flex: 1 }}>
+      <StatusBar style="light" />
       <SafeAreaView>
         <View className="px-4 py-3 flex-row justify-between items-center">
           <TouchableOpacity
@@ -87,7 +88,7 @@ const Details = () => {
                         .
                       </Text>
                     )}
-                  <Text className="text-2xl leading-relaxed font-semibold">
+                  <Text className={clsx(["text-2xl leading-relaxed "])}>
                     {verse.join("\n")}
                   </Text>
                 </View>

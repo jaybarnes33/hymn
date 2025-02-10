@@ -24,8 +24,8 @@ importers:
         specifier: 7.0.14
         version: 7.0.14(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)
       '@shopify/flash-list':
-        specifier: ^1.7.2
-        version: 1.7.3(@babel/runtime@7.26.7)(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)
+        specifier: ^1.7.1
+        version: 1.7.1(@babel/runtime@7.26.7)(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)
       '@urql/core':
         specifier: ^5.1.0
         version: 5.1.0
@@ -1247,8 +1247,8 @@ packages:
   '@segment/loosely-validate-event@2.0.0':
     resolution: {integrity: sha512-ZMCSfztDBqwotkl848ODgVcAmN4OItEWDCkshcKz0/W6gGSQayuuCtWV/MlodFivAZD793d6UgANd6wCXUfrIw==}
 
-  '@shopify/flash-list@1.7.3':
-    resolution: {integrity: sha512-RLhNptm02aqpqZvjj9pJPcU+EVYxOAJhPRCmDOaUbUP86+636w+plsbjpBPSYGvPZhPj56RtZ9FBlvolPeEmYA==}
+  '@shopify/flash-list@1.7.1':
+    resolution: {integrity: sha512-sUYl7h8ydJutufA26E42Hj7cLvaBTpkMIyNJiFrxUspkcANb6jnFiLt9rEwAuDjvGk/C0lHau+WyT6ZOxqVPwg==}
     peerDependencies:
       '@babel/runtime': '*'
       react: '*'
@@ -4519,6 +4519,9 @@ packages:
   ts-object-utils@0.0.5:
     resolution: {integrity: sha512-iV0GvHqOmilbIKJsfyfJY9/dNHCs969z3so90dQWsO1eMMozvTpnB1MEaUbb3FYtZTGjv5sIy/xmslEz0Rg2TA==}
 
+  tslib@2.6.3:
+    resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
+
   tslib@2.8.1:
     resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
 
@@ -6565,13 +6568,13 @@ snapshots:
       component-type: 1.2.2
       join-component: 1.1.0
 
-  '@shopify/flash-list@1.7.3(@babel/runtime@7.26.7)(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)':
+  '@shopify/flash-list@1.7.1(@babel/runtime@7.26.7)(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.26.7
       react: 18.3.1
       react-native: 0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1)
       recyclerlistview: 4.2.1(react-native@0.76.7(@babel/core@7.26.8)(@babel/preset-env@7.26.8(@babel/core@7.26.8))(@types/react@18.3.18)(react@18.3.1))(react@18.3.1)
-      tslib: 2.8.1
+      tslib: 2.6.3
 
   '@sinclair/typebox@0.27.8': {}
 
@@ -10306,6 +10309,8 @@ snapshots:
   ts-interface-checker@0.1.13: {}
 
   ts-object-utils@0.0.5: {}
+
+  tslib@2.6.3: {}
 
   tslib@2.8.1: {}
 

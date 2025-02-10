@@ -13,13 +13,12 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo-modules-autolinking": "*",
     "@babel/runtime": "^7.26.7",
     "@expo/vector-icons": "^14.0.2",
     "@react-native-async-storage/async-storage": "^2.1.0",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "7.0.14",
-    "@shopify/flash-list": "^1.7.2",
+    "@shopify/flash-list": "^1.7.1",
     "@urql/core": "^5.1.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -29,6 +28,7 @@
     "expo-image-picker": "~16.0.4",
     "expo-linear-gradient": "~14.0.2",
     "expo-linking": "~7.0.4",
+    "expo-modules-autolinking": "*",
     "expo-modules-core": "~2.2.0",
     "expo-router": "~4.0.17",
     "expo-splash-screen": "~0.29.21",
