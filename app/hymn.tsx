@@ -12,31 +12,22 @@ import { Hymn } from "@/types";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { LinearGradient } from "expo-linear-gradient";
-import { StatusBar } from "expo-status-bar";
 import clsx from "clsx";
 import { capitalizeFirstLetter } from "@/utils/text";
+import { useTheme } from "@/context/theme";
+
 const Details = () => {
   const { content, language = "twi" } = useLocalSearchParams() as {
     content: string;
     language: "english" | "twi";
   };
   const parsed = JSON.parse(content as string) as Hymn;
-  const { navigate } = useRouter();
+  const { push } = useRouter();
   const item = parsed[language];
+  const { isDark } = useTheme();
 
   const [liked, setLiked] = React.useState(false);
-  const [isDark, setIsDark] = React.useState(
-    Appearance.getColorScheme() === "dark"
-  );
-
   const scrollViewRef = useRef<ScrollView>(null);
-
-  useEffect(() => {
-    const subscription = Appearance.addChangeListener(({ colorScheme }) => {
-      setIsDark(colorScheme === "dark");
-    });
-    return () => subscription.remove();
-  }, []);
 
   useEffect(() => {
     (async () => {
@@ -73,7 +64,7 @@ const Details = () => {
       <SafeAreaView>
         <View className="px-4 py-3 flex-row justify-between items-center">
           <TouchableOpacity
-            onPress={() => navigate({ pathname: "/", params: { language } })}
+            onPress={() => push({ pathname: "/", params: { language } })}
             className="bg-white/20 p-2 rounded-full"
           >
             <Ionicons name="arrow-back" size={24} color="white" />

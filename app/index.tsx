@@ -18,19 +18,16 @@ import type { Hymn } from "@/types";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { LinearGradient } from "expo-linear-gradient";
 import { capitalizeFirstLetter } from "@/utils/text";
+import { useTheme } from "@/context/theme";
+
+const THEME_KEY = "@theme_preference";
 
 export default function Search() {
   const [query, setQuery] = useState("");
   const [results] = useState(hymns);
   const { navigate } = useRouter();
   const [showLiked, setShowLiked] = useState(false);
-  const [isDark, setIsDark] = useState(Appearance.getColorScheme() === "dark");
-
-  const handleTheme = () => {
-    const newTheme = !isDark;
-    setIsDark(newTheme);
-    Appearance.setColorScheme(newTheme ? "dark" : "light");
-  };
+  const { isDark, toggleTheme } = useTheme();
 
   const { language: lang = "twi" } = useLocalSearchParams() as {
     language: "twi" | "english";
@@ -84,7 +81,7 @@ export default function Search() {
                 )}
               </View>
               <TouchableOpacity
-                onPress={handleTheme}
+                onPress={toggleTheme}
                 className="bg-white/20 rounded-full p-3 self-end mb-2 backdrop-blur-lg"
               >
                 <Ionicons
@@ -179,7 +176,9 @@ export default function Search() {
                       {item.number}.
                     </Text>
                     <Text className="flex-1 text-xl capitalize dark:text-white">
-                      {capitalizeFirstLetter(item[language].title)}
+                      {item[language].title
+                        ? capitalizeFirstLetter(item[language].title)
+                        : ""}
                     </Text>
                   </TouchableOpacity>
                 );
