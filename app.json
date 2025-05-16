@@ -4,11 +4,11 @@
     "slug": "kan",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/logo-transparent.png",
+    "icon": "./assets/images/logo.png",
     "scheme": "kan",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/logo-transparent.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#f4f4f4"
     },
@@ -16,11 +16,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.dishplug.kan",
-      "icon": "./assets/images/logo-transparent.png"
+      "icon": "./assets/images/logo.png"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/logo-transparent.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.dishplug.kan"
