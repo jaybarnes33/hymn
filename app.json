@@ -8,7 +8,7 @@
     "scheme": "kan",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/logo.png",
+      "image": "./assets/images/logo-transparent.png",
       "resizeMode": "contain",
       "backgroundColor": "#f4f4f4"
     },
