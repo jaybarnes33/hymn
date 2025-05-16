@@ -24,7 +24,9 @@ export default function RootLayout() {
   return (
     <>
       <StatusBar translucent />
-      <Slot />
+      <Stack screenOptions={{ navigationBarHidden: true, headerShown: false }}>
+        <Stack.Screen name="index" options={{ headerShown: false }} />
+      </Stack>
     </>
   );
 }

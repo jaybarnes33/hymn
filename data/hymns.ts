@@ -105,7 +105,7 @@ export const hymns = [
           "Sε yεnyane a behyira yεn",
           "Ansa na y'afa yεn akwan so",
           "Kosi sε odo kεse no",
-          "De yεbepue osoro nohoaa",
+          "De yεbεpue ɔsoro nohoaa",
         ],
       ],
     },
@@ -150,7 +150,7 @@ export const hymns = [
           "Hyira nka homa a εka",
           "Yε akoma bom Kristo dom",
           "Ayonkofa wo adwenen koro m",
-          "Te sε osoro de no.",
+          "Te sε ɔsoro de no.",
         ],
         [
           "Yε hwiee yεn mpae denden",
@@ -168,7 +168,7 @@ export const hymns = [
           "Sε yε mu hwete a",
           "Yedi yea wo yεn mu pii",
           "Nanso yε bom’ wo akoma mu",
-          "Na yenim sε yebehyia bio.",
+          "Na yenim sε yεbεhya bio.",
         ],
       ],
     },
@@ -207,36 +207,39 @@ export const hymns = [
     number: "4",
     twi: {
       number: "4",
-      title: "yeretu sa ako zion",
+      title: "yεretu sa akɔ zion",
       content: [
         [
-          "Mo a modo awurade",
-          "Mommra, mo ma mo ani ngye",
-          "Monso mu nto nnwom a εyε dε",
-          "Montwa ahennwa n’ho nhyia.",
+          "Mo a modɔ awurade",
+          "Mo mmra, mo ma mo ani ngye",
+          "Mo nsɔ mu nto dwom a εyε dε",
+          "Mo nsɔ mu nto dwom a εyε dε",
+          "Mo ntwa ahennwa n’ho nhyia.",
+          "Mo ntwa ahennwa n’ho nhyia.",
         ],
-        ["Nyesoɔ", "Zion fεfε no", "Yεretu sa ako Zion", "Nyame kuro fεfε."],
+        ["Nyesoɔ", "Zion fεfε no", "Yεretu sa akɔ zion", "Nyame kuro fεfε."],
         [
-          "Won a wonnim nyame",
-          "Worento nnwom yi bi",
-          "Na osoro hene no mma no deε",
-          "Na osoro hene no mma no deε",
-          "Wobεka won anigye akyerε aman",
-          "Wobεka akyerε aman.",
+          "Wɔn a wɔnnim Nyame",
+          "Wɔrento dwom yi bi",
+          "Na ɔsoro hene no mma no deε",
+          "Na ɔsoro hene no mma no deε",
+          "Wɔ bεka wɔn anigye akyerε aman",
+          "Wɔ bεka akyerε aman.",
         ],
         [
-          "Zion kokoo kronkron no",
+          "Zion kro kronkron no",
           "εso nnipa mpempem",
-          "Sε yeduru so asase so",
-          "Sε yeduru soro asase so",
-          "Anaa sikea morono no so",
-          "Sika norono no so.",
+          "Sε yεduru so asase so",
+          "Sε yεduru soro asase so",
+          "Anaa sika morɔno no so",
+          "Sika morɔno no so.",
         ],
         [
-          "Momma ndwom no nko so",
-          "Na nisuo nyinaa new",
-          "Yεnam emmanuel sase so 2×",
-          "Ako bea fεfε bi wo soro",
+          "Mo mma dwom no nko so",
+          "Na nisuo nyinaa nwe",
+          "Yε nam Emmanuel asaase so",
+          "Yε nam Emmanuel asaase so",
+          "Akɔ bea fεfε bi wo soro",
           "Bea fεfε bi wo soro.",
         ],
       ],
@@ -262,7 +265,7 @@ export const hymns = [
         ],
         [
           "Let those refuse to sing",
-          "Who never knew our god;",
+          "Who never knew our God;",
           "But children of the heavenly king,",
           "But children of the heavenly king,",
           "May speak their joys abroad,",
@@ -279,9 +282,10 @@ export const hymns = [
         [
           "Then let our songs abound,",
           "And ev’ry tear be dry;",
-          "We’re marching thru immanuel’s ground,",
-          "We’re marching thru immanuel’s ground,",
-          "To fairer worlds on high, to fairer worlds on high.",
+          "We’re marching thru Emmanuel’s ground,",
+          "We’re marching thru Emmanuel’s ground,",
+          "To fairer worlds on high,",
+          "To fairer worlds on high.",
         ],
       ],
     },
@@ -388,40 +392,40 @@ export const hymns = [
       title: "brebre na eye",
       content: [
         [
-          "Brεbrε na εyε Okristoni.",
+          "Brεbrε na εyε OKristoni.",
           "Fa ntoboase yε woade nyinaa",
           "Nyame na ose brεbrε na εyε",
-          "Okristoni ee brεbrε na εyε.",
+          "OKristoni ee brεbrε na εyε.",
         ],
         [
-          "Mma wobo mfu Okristoni",
+          "Mma wobo mfu OKristoni",
           "Fa ntoboase ye wade nyinaa",
           "Nyame na ose mma w obo mfu",
-          "Okristoni ee mma wobo mfu.",
+          "OKristoni ee mma wobo mfu.",
         ],
         [
-          "Kae mmra nsεm no Okristoni",
+          "Kae mmra nsεm no OKristoni",
           "Na bo mmoden di so daa nyinaa",
-          "Nyame na ose Okristoni ee",
+          "Nyame na ose OKristoni ee",
           "Sε wodo me a di me mmra so.",
         ],
         [
           "Gyae kokonsa na ka nokorε",
           "Gyae nsekubo, gyae akayo",
           "Nyame na ose gyae nkonkonsa",
-          "Okristoni ee gyae nkonkonsa.",
+          "OKristoni ee gyae nkonkonsa.",
         ],
         [
           "Ma w’aniso na hwε soro ho",
-          "Ma kae hu sε onyame nnae",
+          "Ma kae hu sε oNyame nnae",
           "Bone a yεyε ohu ne nyinaa",
-          "Okristoni ee di asempa.",
+          "OKristoni ee di asempa.",
         ],
         [
           "Enna reko εnna reba",
           "Na kae hu sε wo nna rehi",
-          "Osoro ho wo wo adonta bi bu",
-          "Okristoni ee obra twa wu.",
+          "ɔsoro ho wo wo adonta bi bu",
+          "OKristoni ee obra twa wu.",
         ],
       ],
     },
@@ -572,7 +576,7 @@ export const hymns = [
           "Sε",
         ],
         [
-          "Sε yεhu yesu sε oba n’anuonyam",
+          "Sε yεhu Yesu sε oba n’anuonyam",
           "Sε ofi ne soro fie no mu ba a",
           "Yεbehyia no wo fie hyεnhyεn no mu",
           "Εnkyε bi yεbεte ne nyinaa ase.",
@@ -584,6 +588,7 @@ export const hymns = [
       title: "farther along",
       content: [
         [
+          "Tempted and tried we’re oft made to wonder",
           "Why it should be thus all the day long,",
           "While there are others living about us,",
           "Never molested tho in the wrong,",
@@ -609,7 +614,7 @@ export const hymns = [
           "As we sweep thru the beautiful gate.",
         ],
         [
-          "When w see jesus coming in glory,",
+          "When w see Jesus coming in glory,",
           "When he comes from his home in the sky;",
           "Then we shall meet him in that bright mansion,",
           "We’ll understand it all by and by.",
@@ -653,7 +658,7 @@ export const hymns = [
         ],
         [
           "Nnwomto dεεdε reba me nkyεn",
-          "Osoro nnwm a εyε dε no",
+          "ɔsoro nnwm a εyε dε no",
           "Abofo hyε ntade fitaa",
           "Bom to nkwagye dwom dεεdε.",
         ],
@@ -664,7 +669,7 @@ export const hymns = [
       title: "beulah land",
       content: [
         [
-          "I’ll each the land of corn and wine,",
+          "I’ll reach the land of corn and wine,",
           "And all its riches freely mine;",
           "There shines undimmed one blissful day,",
           "For all my night will pass away.",
@@ -775,7 +780,7 @@ export const hymns = [
         ],
         [
           "Ride over temptation and cease your alarms,",
-          "Your shepherd is jesus, your refuge his arms;",
+          "Your shepherd is Jesus, your refuge his arms;",
           "He’ll never forsake you –a brother and friend;",
           "But love you and save you in worlds without end.",
         ],
@@ -786,13 +791,13 @@ export const hymns = [
     number: "12",
     twi: {
       number: "12",
-      title: "eye se metwere yesu",
+      title: "εyε se metwere yesu",
       content: [
         [
-          "Eyε sε metwere yesu",
+          "εyε sε metwere yesu",
           "Na megye n’asεm no di",
           "Na me hwε ne bohyε no kwan",
-          "Na me hu deε nyame se.",
+          "Na me hu deε Nyame se.",
         ],
         [
           "Nyesoɔ",
@@ -803,31 +808,31 @@ export const hymns = [
           "Ma m’adom mentwere wo pii.",
         ],
         [
-          "Eyε sε metwere yesu",
+          "εyε sε metwere yesu",
           "Mani da ne mogya so",
           "Onam gyidi so de me hyε",
           "Mogya a εte me ho nom’",
         ],
         [
-          "Eyε ampa sε metwere yesu",
+          "εyε ampa sε metwere yesu",
           "Gyae bone ne ahopε",
           "Na megye nkwa, home, anigye",
-          "Ne asomdwoe fi yesu ho.",
+          "Ne asomdwoe fi Yesu ho.",
         ],
         [
-          "Eyε sε metwere yesu",
+          "εyε sε metwere yesu",
           "Yesu pa, gyefo yonko",
           "Menim yie sε woka me ho",
-          "Na wobεka me ho daa.",
+          "Na wo bε ka me ho daa.",
         ],
       ],
     },
     english: {
       number: "S.S 559",
-      title: "tis so sweet to trust in the jesus",
+      title: "tis so sweet to trust in the Jesus",
       content: [
         [
-          "Tis so sweet to trust in jesus,",
+          "Tis so sweet to trust in Jesus,",
           "Just to take him at his word,",
           "Just to rest upon his promise;",
           "Just to know, thus saith the lord;",
@@ -841,20 +846,20 @@ export const hymns = [
           "O for grace to trust Him more.",
         ],
         [
-          "O, how sweet to trust in jesus,",
+          "O, how sweet to trust in Jesus,",
           "Just to trust his cleansing blood,",
           "Just in simple faith to plunge me",
           "Neath the healing cleansing flood.",
         ],
         [
-          "Yes, tis sweet to trust in jesus,",
+          "Yes, tis sweet to trust in Jesus,",
           "Just from sin and self to cease;",
-          "Just from jesus simply taking life,",
+          "Just from Jesus simply taking life,",
           "And rest, and joy, and peace.",
         ],
         [
           "I’m so glad i learned to trust thee,",
-          "Precious jesus, savior, friend",
+          "Precious Jesus, savior, friend",
           "And i know that thou art with me,",
           "Wilt be with me to the end.",
         ],
@@ -1228,7 +1233,7 @@ export const hymns = [
           "Ɔtaa gyina hɔ mpεn pii, mano mram’",
           "Ma no mram, anyε a ɔbεkɔ",
           "Ma ɔkronkron ni mo mram’",
-          "Yesu Kristo onyame ba no",
+          "Yesu Kristo oNyame ba no",
           "Ma no mram!",
         ],
         [
@@ -1326,13 +1331,13 @@ export const hymns = [
           "Me wura, mεsɔ wo nsa no mu",
           "Ma merennwiinwii, mmɔ abubuo",
           "Mεyε omm ade nyinaa mu",
-          "Fisε nyame nsa kyerε me kwan.",
+          "Fisε Nyame nsa kyerε me kwan.",
         ],
         [
           "Sε ewie me fam ha adwuma",
           "S ε w’adom nti medi nkunim",
           "Owu nsam mpo, merensuro",
-          "Yordan mu nyame kyerε me kwan.",
+          "Yordan mu Nyame kyerε me kwan.",
         ],
       ],
     },
@@ -1344,7 +1349,7 @@ export const hymns = [
           "He leadeth me! o blessed tho’t",
           "O words with heavenly comfort fraught",
           "Whatever i do, wherever i be,",
-          "Still ‘tis god’s hand that leadeth me.",
+          "Still ‘tis God’s hand that leadeth me.",
         ],
         [
           "Chorus",
@@ -1364,13 +1369,13 @@ export const hymns = [
           "Lord, i would clasp thy hand in mine,",
           "Nor ever murmur nor repine,",
           "Content, whatever lot i see,",
-          "Since ‘tis my god that leadeth me.",
+          "Since ‘tis my God that leadeth me.",
         ],
         [
           "And when my task on earth is done,",
           "When, by thy grace, the victory’s won,",
           "E’en, death’s cold wave i will not flee,",
-          "Since god thru jordan leadeth me.",
+          "Since God thru jordan leadeth me.",
         ],
       ],
     },
@@ -1379,32 +1384,32 @@ export const hymns = [
     number: "20",
     twi: {
       number: "20",
-      title: "monkamfo yesu",
+      title: "monkamfo Yesu",
       content: [
         [
-          "Monkanfo no, yesu yεn gyefo hyirafor",
+          "Monkanfo no, Yesu yεn gyefo hyirafor",
           "Asase mo nto nnwom nyi ne dɔ adi",
           "Soro abɔfo mo mpene no animuonyam mu",
           "Monfa nnidie ma ne din kronkron no",
-          "Sε ɔhwεfoɔ pa yesu bεhwε ne nnwan so",
+          "Sε ɔhwεfoɔ pa Yesu bεhwε ne nnwan so",
           "Ɔbεkora wɔn ne nsam daa nyinaa",
           "Monkanfo no, mo nyi ne kεseyε adi",
           "Monfa ahurisie nnwom nkamfo no daa.",
         ],
         [
-          "Monkamfo no, yesu yεn gyefo hyirafo",
+          "Monkamfo no, Yesu yεn gyefo hyirafo",
           "Yεn bɔne nti ɔhuu amane na owui",
           "Yεn botantim, yεn daa nkwagye anidasoɔ",
-          "Mo mpene yesu a wɔbɔɔ n’asennua mu",
-          "Mo nyi no ayε, yesu soaa yεn bɔne nyinaa",
+          "Mo mpene Yesu a wɔbɔɔ n’asennua mu",
+          "Mo nyi no ayε, Yesu soaa yεn bɔne nyinaa",
           "Anwanwadɔ εmu dɔ na εyε den",
           "Monkamfo no, monyi ne kεseyε adi",
           "Monfa ahurisi nnwom nkanfo no daa.",
         ],
         [
-          "Monkamfo no, yesu yεn gyefo hyirafoɔ",
+          "Monkamfo no, Yesu yεn gyefo hyirafoɔ",
           "Hosanna denden gyegye ɔsoro",
-          "Agyenkwa yesu te ase daadaa ne daa",
+          "Agyenkwa Yesu te ase daadaa ne daa",
           "Monkamfo yεn sɔfo ne hene no",
           "Kristo reba, wadi wiase so nkunim",
           "Tumi ne animuonyam yε awurade dea",
@@ -1431,12 +1436,12 @@ export const hymns = [
           "Praise him; praise him, our blessed redeemer",
           "For our sins he suffered, and bled and died;",
           "He our rock, our hope of eternal salvation,",
-          "Hail him hail him, jesus the crucified,",
-          "Sound his praises jesus, who bore our sorrows,",
+          "Hail him hail him, Jesus the crucified,",
+          "Sound his praises Jesus, who bore our sorrows,",
           "Love unbounded, wonderful, deep and strong;",
         ],
         [
-          "Praise him; praise him, jesus, our blessed redeemer",
+          "Praise him; praise him, Jesus, our blessed redeemer",
           "Heavenly portals, loud with hosannas ring",
           "Jesus, savior, liveth forever and ever;",
           "Praise him, praise him prophet and priest and king;",
@@ -1450,16 +1455,16 @@ export const hymns = [
     number: "21",
     twi: {
       number: "21",
-      title: "ka yesu ho asεm",
+      title: "ka Yesu ho asεm",
       content: [
         [
-          "Ka yesu ho asεm kyerε me",
+          "Ka Yesu ho asεm kyerε me",
           "Twerε nenyinaa m’akomam",
           "Asεm a εsom bo sei yi",
           "Εyε dε kyεn nsεm nyinaa",
           "Ka sεdeε abɔfoɔ de nne korɔ",
           "Too ndwom de hyia n’awoɔ",
-          "Anuonyam nka sorosoro nyame",
+          "Anuonyam nka sorɔsoro Nyame",
           "‘somdwee, nsεmpa aba asase so.",
         ],
         [
@@ -1498,7 +1503,7 @@ export const hymns = [
       content: [
         [
           "Tell me the old, old story of unseen things above,",
-          "Of jesus and his glory, of jesus and his love.",
+          "Of Jesus and his glory, of Jesus and his love.",
           "Tell me the story simply,as to a little child,",
           "For i am weakened and weary, and helpless and defiled",
         ],
@@ -1512,13 +1517,13 @@ export const hymns = [
         ],
         [
           "Till me the story slowly, that i may take it in",
-          "That wonderful redemption,god’s remedy for sin.",
+          "That wonderful redemption,God’s remedy for sin.",
           "Tell me teh story often, for i forget so soon ;",
           "The early dew of morning, has passed away at noon.",
         ],
         [
           "Tell me the story softly,with earnest tones, and grave ;",
-          "Remember i’m the sinnerwhom jesus came to save",
+          "Remember i’m the sinnerwhom Jesus came to save",
           "Tell me the story always,if y ou would really be,",
           "In anytime of trouble,a comforter to me.",
         ],
@@ -1526,7 +1531,7 @@ export const hymns = [
           "Tell me the same old story, when you have caused to fear",
           "That this world’s empty glory is dawning on my soul,",
           "Tell me the old, , old story ;",
-          "Christ jesus makes the thee whole",
+          "Christ Jesus makes the thee whole",
         ],
       ],
     },
@@ -1581,31 +1586,31 @@ export const hymns = [
     number: "23",
     twi: {
       number: "23",
-      title: "me yesu medɔ wo",
+      title: "me Yesu medɔ wo",
       content: [
         [
-          "Me yesu me dɔ wo na wo yε me de",
+          "Me Yesu me dɔ wo na wo yε me de",
           "Bɔne ho anigye nyinaa magyae ama wo",
           "Me gyefoɔ domfoɔ wo yε m’agyenkwa",
-          "Me dɔfo yesu medɔ won nnε sen daa.",
+          "Me dɔfo Yesu medɔ won nnε sen daa.",
         ],
         [
           "Medɔ wo efisε wo dii kan dɔɔ me",
           "Na wo tɔɔ me fafiri kalvary dua no so",
           "Medɔ wo efisε wo soaa nsɔkyε no",
-          "Me dɔfo yesu medɔ won nnε sen daa.",
+          "Me dɔfo Yesu medɔ won nnε sen daa.",
         ],
         [
           "Mεdo won kwa mu, mεdɔ wo wuo mu",
           "Mεyi wo ayε me nkwa nna nyinaa mu",
           "Owuo nsa nwunwu no tɔ me so a mεkasε",
-          "Me dɔfo yesu medɔ won nnε sen daa.",
+          "Me dɔfo Yesu medɔ won nnε sen daa.",
         ],
         [
           "Daa nigyeε wɔ anuonyam aban mu",
           "Na mεtontom wo daa wɔ’man hyεnhyεn nom’",
           "Mεhyε ahenkyε a εhyerεn na mato dwom sε",
-          "Me dɔfo yesu medɔ won nε sen daa.",
+          "Me dɔfo Yesu medɔ won nnε sen daa.",
         ],
       ],
     },
@@ -1645,7 +1650,7 @@ export const hymns = [
       content: [
         [
           "Mene bobe no, mo ne εman no",
-          "Monso aba pa ma yesu εnnε",
+          "Monso aba pa ma Yesu εnnε",
           "Man a εnso aba pa wɔ ne mu no",
           "Yesu aka sε ɔbεtwa afi hɔ.",
         ],
@@ -1677,7 +1682,7 @@ export const hymns = [
       content: [
         [
           "I am the vine and ye are the branches ;",
-          "Bear precious fruit for jesus tday",
+          "Bear precious fruit for Jesus tday",
           "Branches in him no fruit ever bearing,",
           "Jesus hath said, he taketh away",
         ],
@@ -1925,22 +1930,22 @@ export const hymns = [
         [
           "Monsɔre, Kristo asraafoɔ",
           "Na monhyε mo akodeε",
-          "Monyina ahoɔden a nyame ma’m",
-          "Monyina ahoɔden a nyame ma’m",
+          "Monyina ahoɔden a Nyame ma’m",
+          "Monyina ahoɔden a Nyame ma’m",
           "Wɔ ne dɔba no mu.",
         ],
         [
           "Monyina asafo awurade mu",
           "Wɔ ne tum’kεse no mu",
-          "Deε ɔtwere yesu ahoɔden no",
-          "Deε ɔtwere yesu ahoɔden no",
+          "Deε ɔtwere Yesu ahoɔden no",
+          "Deε ɔtwere Yesu ahoɔden no",
           "Kyεn nkonimdifoɔ.",
         ],
         [
           "Monfa n’ahoɔden no",
           "Nyina ne tumi mu",
-          "Monfa nyame akode nyinaa",
-          "Monfa nyame akode nyinaa",
+          "Monfa Nyame akode nyinaa",
+          "Monfa Nyame akode nyinaa",
           "Nhyehyε mo ho nkɔ ko.",
         ],
         [
@@ -1976,7 +1981,7 @@ export const hymns = [
           "Ne wo wura nkasa",
           "Tena ne mu mmerε nyinaa",
           "Ma ne nsεm nyεn wo",
-          "Fa nyame ma nnamfo",
+          "Fa Nyame ma nnamfo",
           "Boa wɔn a wɔayε mmerε",
           "Mma wo werε mfi biribiam’ sε",
           "W’bεhwehwε ne nhyira.",
@@ -1984,9 +1989,9 @@ export const hymns = [
         [
           "To wo bo yε kronkron",
           "Wiase retwam kɔ",
-          "Wo ne yesu nko ntaa",
+          "Wo ne Yesu nko ntaa",
           "Nhyε kokoam mmerε pii",
-          "Sε wo tena yesu mua",
+          "Sε wo tena Yesu mua",
           "Wo nnamfu bεhu no",
           "Wɔ wabrabɔ mu.",
         ],
@@ -2009,14 +2014,14 @@ export const hymns = [
         [
           "Take time to be holy, speak oft with thy lord",
           "Abide in him always, and feed on his word,",
-          "Make friends of god’s children.",
+          "Make friends of God’s children.",
           "Help those who are weary,",
           "Forgetting in nothing his blessings to seek.",
         ],
         [
           "Take time to be holy, the world rushes on",
-          "Spend much time in secret with jesus alone",
-          "Abiding in jesus,like him thou shalt be",
+          "Spend much time in secret with Jesus alone",
+          "Abiding in Jesus,like him thou shalt be",
           "Thy friends in thy conduct his likeness shal see.",
         ],
         [
@@ -2117,12 +2122,12 @@ export const hymns = [
           "So yεbehyia asu no so",
           "Dea abɔfo nan atia no",
           "Asu kronnyen a εsen daa",
-          "Fi nyame ahendwa mu no.",
+          "Fi Nyame ahendwa mu no.",
         ],
         [
           "Nyesoɔ",
 
-          "Yiw, yebehyiam su no so",
+          "Yiw, yεbεhyam su no so",
           "Asu fεεfε, asu fεεfε no so",
           "Yεbehyia ahotefo asu no so",
           "εtene fi Nyame ahendwa no mu.",
@@ -2155,7 +2160,7 @@ export const hymns = [
           "Shall we gather at the river,",
           "Where bright angel feet have trod,",
           "With its crystal tide forever,",
-          "Flowing from the throne of god?",
+          "Flowing from the throne of God?",
         ],
         [
           "Chorus",
@@ -2263,7 +2268,7 @@ export const hymns = [
           "Calling for me, for me.",
         ],
         [
-          "Jesus, my saviou, shall come from on high,",
+          "Jesus, my saviour, shall come from on high,",
           "Sweet is the promise as weary years fly;",
           "Oh, i shall see him descending the sky,",
           "Coming for me, for me",
@@ -2342,7 +2347,7 @@ export const hymns = [
         ],
         [
           "O agyenkwa a wo som bo",
-          "Mekoma da won an ase",
+          "Mekoma da wonan ase",
           "Mεhyira na madɔ wo",
           "Na mεpre m’ahyia wo.",
         ],
@@ -2492,7 +2497,7 @@ export const hymns = [
       title: "me nim deε magye no adi",
       content: [
         [
-          "Mennim sε nti a nyame ayi n’adom",
+          "Mennim sε nti a Nyame ayi n’adom",
           "Nwanwa akyerε me",
           "Ana sε nti a me a memfata yi ɔde",
           "Ne dɔ agye me.",
@@ -2530,7 +2535,7 @@ export const hymns = [
       title: "i know whom i have believed",
       content: [
         [
-          "I know not why god’s wondrous grace",
+          "I know not why God’s wondrous grace",
           "To me he hath made known,",
           "Nor why unworthy christ in love",
           "Redeemed me for his own.",
@@ -2568,12 +2573,12 @@ export const hymns = [
     number: "37",
     twi: {
       number: "37",
-      title: "yesu a ɔyerεn",
+      title: "Yesu a ɔyerεn",
       content: [
         [
-          "Yεn wura yesu a ɔhyerεn",
+          "Yεn wura Yesu a ɔhyerεn",
           "Abɔde nyinaa wura",
-          "Wo yε nyame ne nipa ba",
+          "Wo yε Nyame ne nipa ba",
           "Wo na mεtontom na mεdi wo ni",
           "Me kra animuonyam ne anigye firi wo.",
         ],
@@ -2606,7 +2611,7 @@ export const hymns = [
       content: [
         [
           "Εrenkyε pii bia na ɔbra yi to atwa",
-          "Εrenkyε pii bia na yesu asian aba",
+          "Εrenkyε pii bia na Yesu asian aba",
           "Na Kristo mu awufoɔ bεnyan afi dɔteεm’",
           "Ahyia wɔn wura ne hene",
           "Wɔ ewie mu nohoaa.",
@@ -2636,7 +2641,7 @@ export const hymns = [
         [
           "Εrenkyε pii bia na asase atwam akɔ",
           "Εrenkyε pii bia nnipa nwuma bεsεe",
-          "Na yesu asisie anigye tenabea bi",
+          "Na Yesu asisie anigye tenabea bi",
           "Ma wɔn a wɔhwε soro twεne n’adom kεse n’.",
         ],
       ],
@@ -2647,12 +2652,12 @@ export const hymns = [
       content: [
         [
           "It won’t be very long till this short life shall end,",
-          "It won’t be very long till jesus shall descend;",
+          "It won’t be very long till Jesus shall descend;",
           "And then the dead in christ from beds of clay shall rise",
           "To meet the lord and king up yonder in the skies,",
           "Refrain",
           "It won’t be very long, it won’t be very long",
-          "Till jesus shall appear,",
+          "Till Jesus shall appear,",
           "That day is drawing near",
           "Will you be ready then",
           "To meet the ransomed throng?",
@@ -2674,7 +2679,7 @@ export const hymns = [
         [
           "It won’t be very long till earth shall pass away,",
           "It won’t be very long till works of men decay;",
-          "But jesus has prepared a happy dwelling place,",
+          "But Jesus has prepared a happy dwelling place,",
           "For all who look above and trust his matchless grace.",
         ],
       ],
@@ -2684,10 +2689,10 @@ export const hymns = [
     number: "39",
     twi: {
       number: "39",
-      title: "yεne nyame nante",
+      title: "yεne Nyame nante",
       content: [
         [
-          "Yεne nyame nante",
+          "Yεne Nyame nante",
           "Wɔ n’asεm no hann mu a",
           "Anuonyam bia a ohwie gu yεn kwan mu",
           "Sε yεyε na pε de a",
@@ -2947,7 +2952,7 @@ export const hymns = [
           "Till spotless all and pure.",
         ],
         [
-          "Tis jesus calls me on the perfect faith and love,",
+          "Tis Jesus calls me on the perfect faith and love,",
           "To perfect hope, and peace and trust,",
           "For earth and heav’n above.",
         ],
@@ -2961,14 +2966,14 @@ export const hymns = [
       title: "yɔnko bεn n’ɔte sε yesu",
       content: [
         [
-          "Yɔɔnko bεn n’ɔte sε yesu",
+          "Yɔnko bεn n’ɔte sε yesu",
           "Wasoa yεn bɔne ne yea",
           "Εyε sε yεde ade nyinaa",
-          "Kɔ nyame hɔ mpaebɔ m’",
+          "Kɔ Nyame hɔ mpaebɔ m’",
           "Ao yetaa sεe asomdwoe kwa",
           "Ao yεdi yea a εnhia",
           "Εfisε yεmfa ade nyinaa",
-          "Nnkɔ nyame hɔ mpaebɔm.",
+          "Nnkɔ Nyame hɔ mpaebɔm.",
         ],
         [
           "So yε wɔ nyegyeε ne sɔhwε",
@@ -2978,15 +2983,15 @@ export const hymns = [
           "Yεwɔ yɔnko nokwafoɔ bi a",
           "Ɔbεgyam yεn yea mu",
           "Yesu nim yn mmerεyε nyinaa",
-          "Fakɔ nyame hɔ mpaebɔm.",
+          "Fakɔ Nyame hɔ mpaebɔm.",
         ],
         [
           "Yε ayε mmerε na yεn kɔn abu",
           "Dadwen ne haw gu yεn so?",
           "Agyenkwa neyεn guankɔbea",
-          "Fa kɔ nyame hɔ mpaebɔm",
+          "Fa kɔ Nyame hɔ mpaebɔm",
           "So wo ayɔnkofo di wo ho fεw?",
-          "Fa kɔ nyame hɔ mpaebɔm",
+          "Fa kɔ Nyame hɔ mpaebɔm",
           "Ne nsam bεyε kokyεm amaw’",
           "Wo bεnya abotɔyam.",
         ],
@@ -2994,17 +2999,17 @@ export const hymns = [
     },
     english: {
       number: "S.S. 63",
-      title: "what a friend we hav in jesus",
+      title: "what a friend we hav in Jesus",
       content: [
         [
-          "What a friend we have in jesus,",
+          "What a friend we have in Jesus,",
           "All our sins and griefs to bear",
           "What a privilege to carry,",
-          "Everything to god in pray’r",
+          "Everything to God in pray’r",
           "Oh, what peace we often forfeit",
           "Oh, what needless pain we bear;",
           "All because we do no carry",
-          "Everything to god in pray’r.",
+          "Everything to God in pray’r.",
         ],
         [
           "Have we trials and temptations?",
@@ -3134,7 +3139,7 @@ export const hymns = [
           "While i draw this fleeting breath,",
           "When my eye lids close n death,",
           "When i rise to worlds unknown,",
-          "And behold god on the throne.",
+          "And behold God on the throne.",
         ],
       ],
     },
@@ -3231,7 +3236,7 @@ export const hymns = [
         [
           "Efirisε ede gyedie huu",
           "Mogya a efi wo mfem",
-          "Onyame dɔ ayε me dwom",
+          "ONyame dɔ ayε me dwom",
           "Εbεyε akɔ wuo mu",
         ],
         [
@@ -3258,9 +3263,9 @@ export const hymns = [
         [
           "Dear dying lamb, thy precious blood",
           "Shall never lose its pow’r,",
-          "Till all the ransomed church of god",
+          "Till all the ransomed church of God",
           "Be save, to sin no more; be saved to sin no more",
-          "Till all the ransomed churches god",
+          "Till all the ransomed churches God",
           "Be saved, to sin no more.",
         ],
         [
@@ -3353,7 +3358,7 @@ export const hymns = [
         ],
         [
           "Awurade, mma mennhoran",
-          "Gyesε Kristo me nyame wuo m’",
+          "Gyesε Kristo me Nyame wuo m’",
           "Nneεma hunu a mεdɔ no",
           "Mede bɔ afɔdeε ne mogya m’",
         ],
@@ -3366,7 +3371,7 @@ export const hymns = [
         [
           "Wiase nyinaa yε me de po a",
           "Anka εyε akyεdeε a εsua",
-          "Anwanwa dɔ, nyame dɔ yi",
+          "Anwanwa dɔ, Nyame dɔ yi",
           "Agye kra, nkwa, ade nyinaa.",
         ],
       ],
@@ -3410,7 +3415,7 @@ export const hymns = [
       content: [
         [
           "Kristofoɔ asraafoɔ",
-          "Monnuom akono,yesu asennua no",
+          "Monnuom akono,Yesu asennua no",
           "De yεn anim kan,yεn hene atu sa",
           "Reko tia tamfoɔ,monnuon sraban no so",
           "Monhwε ne frankaa.",
@@ -3433,7 +3438,7 @@ export const hymns = [
         ],
         [
           "Ahennwa bεtutu",
-          "Ahenniw atwam, yesu asɔre de",
+          "Ahenniw atwam, Yesu asɔre de",
           "Εbεtim hɔ daa, asaman apon no",
           "Rentumi nhyε so, yεwɔ Kristo bɔhyε",
           "N’asεm rentwam da.",
@@ -3456,7 +3461,7 @@ export const hymns = [
       content: [
         [
           "Onward, christian soldiers, marching as to war,",
-          "With the cross of jesus going on before",
+          "With the cross of Jesus going on before",
           "Christ, the royal master, leads agaist the foe,",
           "Forward into battle, see, his banners go.",
         ],
@@ -3473,7 +3478,7 @@ export const hymns = [
           "Brothes, lift your voices loud your anthems raise.",
         ],
         [
-          "Like a mighty army, moves the church of god;",
+          "Like a mighty army, moves the church of God;",
           "Brothers, we are treading whre thesaints have trod,",
           "We are not divided, all one body we,",
           "One in hope and doctrine, one in charity.",
@@ -3514,7 +3519,7 @@ export const hymns = [
           "Apam kεseε no wawie pam",
           "Me yε ne de, ɔyε me de",
           "Ɔtwetwee me, medii n’akyi",
-          "Ne nyame nne no yε me dε.",
+          "Ne Nyame nne no yε me dε.",
         ],
         [
           "Afei me koma a wakyini akyε",
@@ -3530,7 +3535,7 @@ export const hymns = [
       content: [
         [
           "O happy day that fixed my choice,",
-          "On thee my savior and my god",
+          "On thee my savior and my God",
           "Well may this glowing heart rejoice,",
           "And tell its raptures all abroad.",
         ],
@@ -3578,7 +3583,7 @@ export const hymns = [
           "Na afei m’ahome ka me ho daa.",
         ],
         [
-          "Yesu, me nyame; menim no",
+          "Yesu, me Nyame; menim no",
           "Ne din na metwere",
           "Ɔremma me kra mfere da",
           "Na m’anidasoɔ mpa.",
@@ -3643,7 +3648,7 @@ export const hymns = [
         [
           "Ao bra ma yεnni dε",
           "Dε kan meyε hiani a",
-          "Afei manya nyame ho dε",
+          "Afei manya Nyame ho dε",
           "Ɔdɔ a εkyεn sika.",
         ],
         [
@@ -3661,7 +3666,7 @@ export const hymns = [
         [
           "Ao bra ma yεnni dε",
           "Me kra reyera no",
-          "M’agyenkwa yesu twee me fii",
+          "M’agyenkwa Yesu twee me fii",
           "Bɔne ne bonsam nsam.",
         ],
         [
@@ -3688,7 +3693,7 @@ export const hymns = [
     number: "54",
     twi: {
       number: "54",
-      title: "yesu Kristo resen ha",
+      title: "Yesu Kristo resen ha",
       content: [
         [
           "Yesu Kristo resen ha",
@@ -3726,11 +3731,11 @@ export const hymns = [
     number: "55",
     twi: {
       number: "55",
-      title: "yesu di hene baabiara",
+      title: "Yesu di hene baabiara",
       content: [
         [
           "Babiara a owia hyerεn no",
-          "Εtwa sε yesu di hene",
+          "Εtwa sε Yesu di hene",
           "N’ahenie bεtrε man nyinaa",
           "Kosi sε owia rentɔ bio.",
         ],
@@ -3847,7 +3852,7 @@ export const hymns = [
         [
           "Yie ne adɔe bedi makyi",
           "Me kwa nna nyinaa mu",
-          "Na mede nyame fie bεyε",
+          "Na mede Nyame fie bεyε",
           "Me tenabea daa nyinaa.",
         ],
       ],
@@ -3883,7 +3888,7 @@ export const hymns = [
         [
           "Goodness and mercy all my life",
           "Shall surely follow me,",
-          "And in god’s house for ever more",
+          "And in God’s house for ever more",
           "My dwelling place shall be.",
         ],
       ],
@@ -3934,7 +3939,7 @@ export const hymns = [
       title: "i surrender all",
       content: [
         [
-          "All to jesus i surrender,",
+          "All to Jesus i surrender,",
           "All to him i freely give",
           "I will ever love and trust him,",
           "In his presene daily live.",
@@ -3948,19 +3953,19 @@ export const hymns = [
           "I surrender all.",
         ],
         [
-          "All to jesus i surrender,",
+          "All to Jesus i surrender,",
           "Humbly at his feet i bow",
           "Worldly pleasures all forsaken",
-          "Take me, jesus, take me now.",
+          "Take me, Jesus, take me now.",
         ],
         [
-          "All to jesus i surrender,",
+          "All to Jesus i surrender,",
           "Make me, saviour, wholly thine",
           "Let me know the joy of living,",
           "Truly know that tou art mine.",
         ],
         [
-          "All to jesusu i surrender,",
+          "All to Jesusu i surrender,",
           "Lord, i give my self to thee.",
           "Fill me with thy love and power,",
           "Let thy blessings fall on me.",
@@ -3978,7 +3983,7 @@ export const hymns = [
           "Εyε me dε sε yεn agya wɔ soro",
           "Ka ne dɔ ho asεm nhoma a ɔde mae m",
           "Anwanwasεm pii na mehu wɔ mu",
-          "Deε εkyεn ne nyinaa ne sε yesu dɔ me.",
+          "Deε εkyεn ne nyinaa ne sε Yesu dɔ me.",
         ],
         [
           "Nyesoɔ",
@@ -3992,37 +3997,37 @@ export const hymns = [
           "Yesu dɔ me na me nso medɔ no",
           "Dɔ de no fii soro bεgyee me nkwa",
           "Yiw εyε dɔ na ɔde wui dua no so",
-          "O minim pefee sε yesu dɔ me.",
+          "O minim pefee sε Yesu dɔ me.",
         ],
         [
           "Sε wɔbisame a mεka no sεn?",
           "Nuonyam nka yesu, minim yiye sε",
           "Nyame honhom kronkron ne me adom",
-          "Redi adanse sε yesu dɔ me.",
+          "Redi adanse sε Yesu dɔ me.",
         ],
         [
           "Εdwom fua na εwɔ hɔ a mεto",
           "Bere a mehu ɔhene wɔ n’ahoɔfε m’",
           "Εyi bεyε me dwom a mεto daa",
-          "O anwanwansεm, yesu dɔ me.",
+          "O anwanwansεm, Yesu dɔ me.",
         ],
         [
           "Anidasoɔ yi mu, m’ahotɔ mu",
-          "Metwere yesu a mewɔ nhyira",
+          "Metwere Yesu a mewɔ nhyira",
           "Satan ani bεwu na ɔbεdwane",
-          "Sε meka kyerε no sε yesu dɔ me.",
+          "Sε meka kyerε no sε Yesu dɔ me.",
         ],
       ],
     },
     english: {
       number: "S.S. 274",
-      title: "jesus loves even me",
+      title: "Jesus loves even me",
       content: [
         [
           "I am so glad that our father in heaven",
           "Tells of his love in the book he has given",
           "Wonderful things in the bible i see,",
-          "This is the dearest that jesus loves me.",
+          "This is the dearest that Jesus loves me.",
         ],
         [
           "Chorus",
@@ -4034,13 +4039,13 @@ export const hymns = [
           "Tho i forget him and wande away,",
           "Still he doth love me wherever i stray;",
           "Back to his dear loving arms would i flee,",
-          "When i remember that jesus loves me.",
+          "When i remember that Jesus loves me.",
         ],
         [
           "O there is only one song i can sing,",
           "When in his beauty i see the great king",
           "This shall my song in eternity be,",
-          "O what a wonder that jesus loves me.",
+          "O what a wonder that Jesus loves me.",
         ],
       ],
     },
@@ -4096,7 +4101,7 @@ export const hymns = [
           "Nyame yε dɔ",
           "Moma ɔdra biara nsɔre fi bɔn mu",
           "Na ɔnto nwom a εyε dε",
-          "Na ɔne yεn nto nwom sε yesu nti",
+          "Na ɔne yεn nto nwom sε Yesu nti",
           "Nyame yε dɔ.",
         ],
         [
@@ -4123,7 +4128,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 256",
-      title: "god is love",
+      title: "God is love",
       content: [
         [
           "Come, let us all unite to sing,",
@@ -4132,12 +4137,12 @@ export const hymns = [
           "Godis love",
           "Let every soul from sin awake,",
           "Each in his heart sweet music make",
-          "And sing with us for jesus sake,",
-          "For god is love.",
+          "And sing with us for Jesus sake,",
+          "For God is love.",
           "Refrain",
-          "God is love, god is love",
+          "God is love, God is love",
           "Come, let us all unite to sing",
-          "That god is love.",
+          "That God is love.",
         ],
         [
           "Oh, tell to earth’s remotest bound,",
@@ -4147,7 +4152,7 @@ export const hymns = [
           "His blood has whashed our sins away,",
           "His spirit turned our night to day,",
           "And now we can rejoice to say,",
-          "That god is love.",
+          "That God is love.",
         ],
         [
           "How happy is our portion here,",
@@ -4157,7 +4162,7 @@ export const hymns = [
           "He is our sun and shield by day,",
           "Our help, our hope, our strength and stay,",
           "He will be with us all the way,",
-          "Our god is love.",
+          "Our God is love.",
         ],
       ],
     },
@@ -4222,7 +4227,7 @@ export const hymns = [
         [
           "Oh, precious fountain that saves from sin,",
           "I am so glad i have entered in",
-          "There jesus saves me and keeps me clean",
+          "There Jesus saves me and keeps me clean",
           "Glory to his name.",
         ],
         [
@@ -4238,7 +4243,7 @@ export const hymns = [
     number: "63",
     twi: {
       number: "63",
-      title: "nyame ne wo ntena kosi sε",
+      title: "Nyame ne wo ntena kosi sε",
       content: [
         [
           "Nyame new o ntena kosi sε yεbεhyiam bio",
@@ -4270,7 +4275,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 655",
-      title: "god be with you",
+      title: "God be with you",
       content: [
         [
           "God be with you till we meet again,",
@@ -4305,15 +4310,15 @@ export const hymns = [
     number: "64",
     twi: {
       number: "64",
-      title: "wo nkyεn ara nyame",
+      title: "wo nkyεn ara Nyame",
       content: [
         [
-          "Wo nkyεn ara nyame",
+          "Wo nkyεn ara Nyame",
           "Wo nkyεn ara",
           "Sε asennua so mpo",
           "Na menam a",
           "Me nnwom nyinaa ne sε",
-          "Wo nkyεn ara nyame",
+          "Wo nkyεn ara Nyame",
           "Wo nkyε ara.",
         ],
         [
@@ -4322,7 +4327,7 @@ export const hymns = [
           "Na ade nso sa me",
           "Na mesum bo a",
           "M’adeaso mu mεbεn",
-          "Wo nkyεn ara nyame",
+          "Wo nkyεn ara Nyame",
           "Wo nkyεn ara.",
         ],
         [
@@ -4331,7 +4336,7 @@ export const hymns = [
           "Deε woma mw nyinaa",
           "Ayamyε kwa",
           "Abɔfoɔ frεfrε me",
-          "Wo nkyεn ara nyame",
+          "Wo nkyεn ara Nyame",
           "Wo nkyεn ara.",
         ],
         [
@@ -4340,20 +4345,20 @@ export const hymns = [
           "Me werε fi bosome",
           "Wi ne nsoroma a",
           "Ma nnwom nyinaa ne sε",
-          "Wo nkyεn ara nyame",
+          "Wo nkyεn ara Nyame",
           "Wo nkyεn ara.",
         ],
       ],
     },
     english: {
       number: "S.S. 56",
-      title: "nearer my god to thee",
+      title: "nearer my God to thee",
       content: [
         [
-          "Nearer, my god , to thee, nearer to thee",
+          "Nearer, my God , to thee, nearer to thee",
           "E’en tho’ it be across that raiseth me",
           "Still all my song shall be",
-          "Nearer, my god to thee",
+          "Nearer, my God to thee",
         ],
         [
           "Tho like a wanderer,",
@@ -4361,13 +4366,13 @@ export const hymns = [
           "Darkness be over me,",
           "My rest a stone,",
           "Yet in my dreams i ‘d be,",
-          "Nearer,my god to thee",
+          "Nearer,my God to thee",
         ],
         [
           "Or if, on joyful wing, cleaving the sky",
           "Sun, moon and strs forgot,",
           "Upward i fly, still all my song shall be,",
-          "Nearer, my god, to thee",
+          "Nearer, my God, to thee",
         ],
       ],
     },
@@ -4480,7 +4485,7 @@ export const hymns = [
       title: "holy, holy holy",
       content: [
         [
-          "Holy, holy holy lord god almighty",
+          "Holy, holy holy lord God almighty",
           "Early in the morning our song shall rise to thee",
           "Holy, holy, holy",
           "Merciful and mighty,",
@@ -4489,7 +4494,7 @@ export const hymns = [
         [
           "Holy, holy, holy, all the saints adore thee",
           "Casting down their golden crowns around the glassy sea;",
-          "Cherubim and seraphim falling dwon before thee,",
+          "Cherubim and seraphim falling down before thee,",
           "Who wert and wrt and ever more shall be.",
         ],
         [
@@ -4499,7 +4504,7 @@ export const hymns = [
           "Perfect in pow’r, in love and purity.",
         ],
         [
-          "Holy, holy, holy, lord god almighty",
+          "Holy, holy, holy, lord God almighty",
           "All thy works shall praise thy name",
           "In earth, and sky and sea;",
           "Holy, holy, holy, merciful and mighty",
@@ -4577,10 +4582,10 @@ export const hymns = [
     number: "68",
     twi: {
       number: "68",
-      title: "sεdeε yesu din si yε dε",
+      title: "sεdeε Yesu din si yε dε",
       content: [
         [
-          "Sεdeε yesu din si yε dε",
+          "Sεdeε Yesu din si yε dε",
           "Wɔ gyedini asom",
           "Etu ne yea sa ne yare",
           "Etu ne suro nyinaa.",
@@ -4607,10 +4612,10 @@ export const hymns = [
     },
     english: {
       number: "S.S. 272",
-      title: "how sweet the name of jesus sounds",
+      title: "how sweet the name of Jesus sounds",
       content: [
         [
-          "How sweet the name of jesus sounds",
+          "How sweet the name of Jesus sounds",
           "In a believers ear",
           "It soothes his sorrows heals his wounds",
           "And drives away his fear.",
@@ -4641,10 +4646,10 @@ export const hymns = [
     number: "69",
     twi: {
       number: "69",
-      title: "oyi ne nyame a yεsom no",
+      title: "oyi ne Nyame a yεsom no",
       content: [
         [
-          "Oyi ne nyame a yεsom no",
+          "Oyi ne Nyame a yεsom no",
           "Yεn dɔfoɔ pa a ɔnsakyera da.",
           "Ne dɔ so sε ne tumi no",
           "Εnni nsusui anaa awiei.",
@@ -4673,7 +4678,7 @@ export const hymns = [
         ["Me werε remfi no", "Ɔno ɔwu maa me."],
         ["Mete ase ma yesu", "Ɔde ne nkwa maa me."],
         ["Hyira wura kora me", "Metwere wo nkutoo."],
-        ["Ao yesu mεdo wo", "Mεdɔ wo akɔ wum"],
+        ["Ao Yesu mεdo wo", "Mεdɔ wo akɔ wum"],
         ["Anuonyam nka yesu", "Wɔ dɔ a ɔdɔ me."],
       ],
     },
@@ -4744,7 +4749,7 @@ export const hymns = [
         ],
         [
           "Me bɔne nyinaa day esu so",
-          "Wɔkum nyame adwamma",
+          "Wɔkum Nyame adwamma",
           "Wɔde ne kra bɔɔ afɔdeε",
           "Maa nipa biara kra.",
         ],
@@ -4757,7 +4762,7 @@ export const hymns = [
         [
           "O for a thousand tongues to sing,",
           "Blessed be the name of the lord,",
-          "The glories of my god and king",
+          "The glories of my God and king",
           "Blessed be the name of the lord.",
         ],
         [
@@ -4781,7 +4786,7 @@ export const hymns = [
         [
           "I never shall forget that day,",
           "Blessed be the name of the lord",
-          "When jesus washed my sins away,",
+          "When Jesus washed my sins away,",
           "Blessed be the name of the lord.",
         ],
       ],
@@ -4826,9 +4831,9 @@ export const hymns = [
     number: "74",
     twi: {
       number: "74",
-      title: "monyi nyame hene ayε",
+      title: "monyi Nyame hene ayε",
       content: [
-        ["Monyi nyame hene ayε", "Monfa ayεyie nnwom mma no"],
+        ["Monyi Nyame hene ayε", "Monfa ayεyie nnwom mma no"],
         ["Nyesoɔ", "ɔ", "N’ahummɔbɔ tim hɔ daa", "Esi pi, yε nokware daa."],
         ["Monhyira no; wayɔ owia", "Sε εmmɔ aporɔ daa nyinaa."],
         ["Na wayɔ; ɔsrane nso", "Εhyerεn anadwofa."],
@@ -5062,7 +5067,7 @@ export const hymns = [
     number: "79",
     twi: {
       number: "79",
-      title: "yesu kora me asennua ho",
+      title: "Yesu kora me asennua ho",
       content: [
         [
           "Yesu kora me asennua ho",
@@ -5121,7 +5126,7 @@ export const hymns = [
           "Sheds its beams around me.",
         ],
         [
-          "Near the cross, o lamb of god,",
+          "Near the cross, o lamb of God,",
           "Bring its scenes before me",
           "Help me walk from day to day,",
           "With its shadows o’er me.",
@@ -5226,31 +5231,31 @@ export const hymns = [
           "Just as i am, without one plea,",
           "But that thy blood was shed for me,",
           "And that thou bidd’st me come to thee,",
-          "O lamb of god, i come, i come.",
+          "O lamb of God, i come, i come.",
         ],
         [
           "Just as i am, and waiting not",
           "To rid my soul of one dark blot",
           "To thee whose blood can cleanse each spot,",
-          "O lamb of god, i come, i come.",
+          "O lamb of God, i come, i come.",
         ],
         [
           "Just as i am, tho tossed about",
           "With many a conflict, many a doubt",
           "Fightings and fears within, without,",
-          "O lamb of god, i come, i come",
+          "O lamb of God, i come, i come",
         ],
         [
           "Just as i am, poor, wretched, blind,",
           "Sight, riches, healing of the mind",
           "Yea, all i need in thee to find,",
-          "O lamb of god, i come, i come",
+          "O lamb of God, i come, i come",
         ],
         [
           "Just as i am, thou wilt receive,",
           "Wilt welcome, pardon, cleanse, relieve,",
           "Because thy promise i believe,",
-          "O lamb of god, i come, i come.",
+          "O lamb of God, i come, i come.",
         ],
       ],
     },
@@ -5268,7 +5273,7 @@ export const hymns = [
           "O ankonam boafoɔ, wo ne me ntena.",
         ],
         [
-          "Ypn nkwa nna ketewa yi retwam kɔ",
+          "Yɛn nkwa nna ketewa yi retwam kɔ",
           "Wiase dε repa, n’anuonyam resen",
           "Ɔsεe ne nsakyera nko na me hu ha",
           "Ao, wo a wonsakyera da, wo ne me ntena.",
@@ -5280,7 +5285,7 @@ export const hymns = [
           "Sum mu o, hann mu o, wo ne me ntena.",
         ],
         [
-          "Sε me ne won am a mensuro hwee",
+          "Sε me ne wo nam a mensuro hwee",
           "Ɔyea nyε duru, nnisuo nyε nnwono",
           "Wuo bɔre, damoa nkonim εwɔ hi?",
           "Medi nkonim daa sε wo ne me ntena.",
@@ -5322,7 +5327,7 @@ export const hymns = [
     number: "83",
     twi: {
       number: "83",
-      title: "yesu me kra ne dɔfo",
+      title: "Yesu me kra ne dɔfo",
       content: [
         [
           "Yesu me kra ne dεfo",
@@ -5357,7 +5362,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 258",
-      title: "jesus lover of my soul",
+      title: "Jesus lover of my soul",
       content: [
         [
           "Jesus, lover of my sou, letme to thy bosom fly",
@@ -5403,7 +5408,7 @@ export const hymns = [
           "Oduyεfoɔ kεseε abεn",
           "Ɔne timmɔbɔ yesu",
           "Ɔkasa ma koma tɔ yam",
-          "Dɔfo, tie yesu nne no.",
+          "Dɔfo, tie Yesu nne no.",
         ],
         [
           "Nyesoɔ",
@@ -5415,15 +5420,15 @@ export const hymns = [
         ],
         [
           "Wɔde wo bɔne akyε wo",
-          "Dɔfo, tie yesu nne no",
+          "Dɔfo, tie Yesu nne no",
           "Fa asomdwee tu wo kwan kɔ soro",
-          "Wo ne yesu nhyε ahenkyε.",
+          "Wo ne Yesu nhyε ahenkyε.",
         ],
         [
-          "Anuonyam nka nyame adwamma",
-          "Megye yesu din no di,",
+          "Anuonyam nka Nyame adwamma",
+          "Megye Yesu din no di,",
           "Me dɔ gyefoɔ hyirafoɔ no din",
-          "Me dɔ me yesu din no.",
+          "Me dɔ me Yesu din no.",
         ],
         [
           "Ne din yi m’afodie nyinaa",
@@ -5433,9 +5438,9 @@ export const hymns = [
         ],
         [
           "Anuanom moma yεnyi no ayε",
-          "Monyi yesu din ayε",
+          "Monyi Yesu din ayε",
           "Nuammaa mo nso mom a mo nne so",
-          "Monhyira me yesu din no.",
+          "Monhyira me Yesu din no.",
         ],
       ],
     },
@@ -5445,9 +5450,9 @@ export const hymns = [
       content: [
         [
           "The great physician now is near,",
-          "The sympathizing jesus",
+          "The sympathizing Jesus",
           "He speaks the drooping heart to cheer,",
-          "O hear the voice of jesus;",
+          "O hear the voice of Jesus;",
         ],
         [
           "Chorus",
@@ -5457,15 +5462,15 @@ export const hymns = [
         ],
         [
           "Your many sins are all forgiven,",
-          "O hear the voce of jesus;",
+          "O hear the voce of Jesus;",
           "Go on your way in peace to heaven,",
-          "And wear a crown with jesus.",
+          "And wear a crown with Jesus.",
         ],
         [
           "All glory to the dying lamb",
-          "I now believe in jesus;",
+          "I now believe in Jesus;",
           "I love th blessed savior’s name,",
-          "I love the name of jesus.",
+          "I love the name of Jesus.",
         ],
       ],
     },
@@ -5474,10 +5479,10 @@ export const hymns = [
     number: "85",
     twi: {
       number: "85",
-      title: "fa yesu din bata wo ho",
+      title: "fa Yesu din bata wo ho",
       content: [
         [
-          "Fa yesu din bata wo ho",
+          "Fa Yesu din bata wo ho",
           "Mmɔbɔrɔni werε honi",
           "Εbεma wo awerεkyekye",
           "Nea wo kɔ biara fa kɔ.",
@@ -5497,7 +5502,7 @@ export const hymns = [
           "Bɔ mpae din kronkron no mu.",
         ],
         [
-          "O yesu in a εsom bo",
+          "O Yesu in a εsom bo",
           "Εma yεn kra anigye",
           "Bere a ɔyε yεn εtuu",
           "Na yεn nne to ne nnwom no.",
@@ -5520,7 +5525,7 @@ export const hymns = [
     number: "86",
     twi: {
       number: "86",
-      title: "yesu gye nnebɔneyεfoɔ",
+      title: "Yesu gye nnebɔneyεfoɔ",
       content: [
         [
           "Yesu gye nnebɔneyεfoɔ",
@@ -5561,7 +5566,7 @@ export const hymns = [
       title: "christ receiveth sinful men",
       content: [
         [
-          "Sinners jesus will receive;",
+          "Sinners Jesus will receive;",
           "Sound this word of grace to all",
           "Who the heavenly pathway leave,",
           "All who linger, all who fall.",
@@ -5596,10 +5601,10 @@ export const hymns = [
     number: "87",
     twi: {
       number: "87",
-      title: "meyε wode, nyame",
+      title: "meyε wode, Nyame",
       content: [
         [
-          "Meyε wode, nyame mate wo nne",
+          "Meyε wode, Nyame mate wo nne",
           "Εkaa wo dɔ kyerε me",
           "Na mepε sε mesɔre gyedi mu",
           "Na metwe pini wo nkyεn.",
@@ -5621,7 +5626,7 @@ export const hymns = [
         [
           "W’ahendwa anim dɔnhwere biako",
           "Mame anigye kεse",
-          "Bere a mpaebom’ me ne wo, me nyame",
+          "Bere a mpaebom’ me ne wo, me Nyame",
           "Di nkɔmmɔ sε adamfo.",
         ],
         [
@@ -5659,7 +5664,7 @@ export const hymns = [
         [
           "O the pure delight of a single hour",
           "That before thy throne i spend,",
-          "When i kneel in prayer, and with thee,my god",
+          "When i kneel in prayer, and with thee,my God",
           "I commune as friend with friend.",
         ],
         [
@@ -5679,7 +5684,7 @@ export const hymns = [
       content: [
         [
           "Asodie da me so",
-          "Sε mekamfo nyame",
+          "Sε mekamfo Nyame",
           "Mεgye me kra a εnwu da nkwa",
           "Ma εfata soro.",
         ],
@@ -5709,7 +5714,7 @@ export const hymns = [
       content: [
         [
           "Acharge to keep i have,",
-          "A god to glorify",
+          "A God to glorify",
           "A never dying soul to save,",
           "And fit it for the sky.",
         ],
@@ -5790,7 +5795,7 @@ export const hymns = [
           "Sε menya nnomaa ntaban a",
           "Anka mεtu ma kɔ",
           "Ma kɔ hwehwε wiem ne ‘soro",
-          "Mahu deε yesu wɔ.",
+          "Mahu deε Yesu wɔ.",
         ],
       ],
     },
@@ -5824,7 +5829,7 @@ export const hymns = [
           "εdan no apono ano da bi.",
         ],
         [
-          "Bere nyinaa me da m’agyenkwa ne awurade ase",
+          "Berε nyinaa me da m’agyenkwa ne awurade ase",
           "Sε ɔde hom ahyε abrεfoɔ bɔ",
           "Me nhia biribi bio sε εdan wɔ soro hɔ a",
           "Me ne ahyirafoɔ bεtena mu.",
@@ -5880,7 +5885,7 @@ export const hymns = [
       content: [
         [
           "Yea nnipa monhwε din bi a",
-          "Wɔde frε nyame ba a",
+          "Wɔde frε Nyame ba a",
           "Ɔbεgye adasa nkwa",
           "Alleluia, gyefoɔ bεn nie?",
         ],
@@ -5892,7 +5897,7 @@ export const hymns = [
         ],
         [
           "Yεdi fɔ, yεn ho yε tan",
-          "N’ɔyε nyame mpata dwan",
+          "N’ɔyε Nyame mpata dwan",
           "Fafiri aba so ampa",
           "Alleluia, gyefoɔ bεn nie?",
         ],
@@ -5916,7 +5921,7 @@ export const hymns = [
       content: [
         [
           "Man of sorrows, what a name",
-          "For the son of god who came",
+          "For the son of God who came",
           "Ruined sinners to reclaim",
           "Hallelujah! what a savior.",
         ],
@@ -5928,7 +5933,7 @@ export const hymns = [
         ],
         [
           "Guilty, vile and helpless we;",
-          "Spotless lamb of god was he;",
+          "Spotless lamb of God was he;",
           "Full atonement can it be?",
           "Hallelujah! what a savior.",
         ],
@@ -6040,7 +6045,7 @@ export const hymns = [
         ],
         [
           "Sε yεyere yεn ho bɔ mpae",
-          "Wɔ yesu din mu mere nyinaa a",
+          "Wɔ Yesu din mu mere nyinaa a",
           "Yεrenhu awerεhoɔ, sɔhwε ne yea",
           "Wɔ εda biara mu.",
         ],
@@ -6135,7 +6140,7 @@ export const hymns = [
     number: "96",
     twi: {
       number: "96",
-      title: "yesu yε me wiase nyinaa",
+      title: "Yesu yε me wiase nyinaa",
       content: [
         [
           "Yesu yε me wiase nyinaa",
@@ -6180,7 +6185,7 @@ export const hymns = [
     },
     english: {
       number: "S.S.204",
-      title: "jesus is all the world to me",
+      title: "Jesus is all the world to me",
       content: [
         [
           "Jesus is all the world to me, my life, my joy, my all;",
@@ -6220,13 +6225,13 @@ export const hymns = [
     number: "97",
     twi: {
       number: "97",
-      title: "ma yesu ntena w’akoma mu",
+      title: "ma Yesu ntena w’akoma mu",
       content: [
         [
           "So wobεgyae ahome gu",
           "Na wo ahwehwε asomdwoe kwan",
           "Ma Kristo kwan, wani nna soro",
-          "Ma yesu ntena w’akoma mu.",
+          "Ma Yesu ntena w’akoma mu.",
         ],
         [
           "Nyesoɔ",
@@ -6240,37 +6245,37 @@ export const hymns = [
           "Wo kra bεkɔ nsɔhwε mu",
           "Agyenkwa no nhwehwε no saa",
           "Gye no di yiye sε tetefoɔ",
-          "Ma yesu ntena w’akoma mu.",
+          "Ma Yesu ntena w’akoma mu.",
         ],
         [
           "Awerεho ne amaneε bεba",
           "Fa wo ho to agyenkwa no so",
           "Wo taa fom deε, ɔbεte wo ho",
-          "Ma yesu ntena w’akoma mu.",
+          "Ma Yesu ntena w’akoma mu.",
         ],
         [
           "Ɔbɔne tie ne dɔ nne no",
           "Εrefrε wo akɔ soro",
           "Fa w’koma ma no, ɔbεte ho",
-          "Ma yesu ntena w’akoma mu.",
+          "Ma Yesu ntena w’akoma mu.",
         ],
         [
           "Na sε owu dɔn no bεn a",
           "Twere no sε ɔbeyi wo suro",
           "Na wo bεhu εsoro anigye",
-          "Ma yesu ntena w’akoma mu.",
+          "Ma Yesu ntena w’akoma mu.",
         ],
       ],
     },
     english: {
       number: "S.S. 519",
-      title: "let jesus dwell within your soul",
+      title: "let Jesus dwell within your soul",
       content: [
         [
           "O will you now, from sighing cease?",
           "O will you seek the path of peace?",
           "Give christ your heart, make heav’n your goal",
-          "Let jesus dwell within your soul",
+          "Let Jesus dwell within your soul",
         ],
         [
           "Chorus",
@@ -6284,25 +6289,25 @@ export const hymns = [
           "Thro trials oft, your soul must go",
           "The saviour wills tis to be so",
           "Trust him with all, as they of old,",
-          "Let jesus dwell within your soul.",
+          "Let Jesus dwell within your soul.",
         ],
         [
           "Tho’sorrows come and troubles sore",
           "Trust in the savior more and more,",
           "Tho’oft you’ve sinned, he’ll make you whole",
-          "Let jesus dwell within your soul.",
+          "Let Jesus dwell within your soul.",
         ],
         [
           "Poor sinners, hear, his voice of love",
           "Tis calling you to heav’n above",
           "Give him your heart he’ll make it whole",
-          "Let jesus dwell within your soul.",
+          "Let Jesus dwell within your soul.",
         ],
         [
           "And when the hour, of death draws near",
           "Trust him to take, away all fear",
           "The joys of heav’n will soon unfold,",
-          "Let jesus dwell within your soul.",
+          "Let Jesus dwell within your soul.",
         ],
       ],
     },
@@ -6331,7 +6336,7 @@ export const hymns = [
           "O dwene nohoaa ahotefoɔ n’ho",
           "Wɔadi yεn kan akwantu yi mu",
           "Dwene nnwom a wɔto no ho",
-          "Wɔ wɔn fie, nyame ahenfie hɔ.",
+          "Wɔ wɔn fie, Nyame ahenfie hɔ.",
         ],
         [
           "M’agyenkwa no wɔ nohoaa hɔ",
@@ -6369,7 +6374,7 @@ export const hymns = [
           "O think of the saints over there,",
           "Who before us the journey have trod,",
           "Of the songs that they breathe on the air,",
-          "In their home in the palace of god.",
+          "In their home in the palace of God.",
         ],
         [
           "My saviour is now over there,",
@@ -6390,13 +6395,13 @@ export const hymns = [
     number: "99",
     twi: {
       number: "99",
-      title: "hwee nni hɔ sε yesu mogya",
+      title: "hwee nni hɔ sε Yesu mogya",
       content: [
         [
           "Deεn na εbεhoro me bɔne?",
-          "Hwee nni hɔ sε yesu mogya",
+          "Hwee nni hɔ sε Yesu mogya",
           "Deεn bεma m’adi mu bio?",
-          "Hwee nni hɔ sε yesu mogya.",
+          "Hwee nni hɔ sε Yesu mogya.",
         ],
         [
           "Nyesoɔ",
@@ -6408,21 +6413,21 @@ export const hymns = [
         ],
         [
           "Sε mepε bɔne fafiri",
-          "Hwee nni hɔ sε yesu mogya",
+          "Hwee nni hɔ sε Yesu mogya",
           "Sε mepε ahoteε nso a",
-          "Hwee nni hɔ sε yesu mogya.",
+          "Hwee nni hɔ sε Yesu mogya.",
         ],
         [
           "Hwee ntumi ntua bɔne ka",
-          "Hwee nni hɔ sε yesu mogya",
+          "Hwee nni hɔ sε Yesu mogya",
           "Εnyε papa bi a m’ayε",
-          "Hwee nni hɔ sε yesu mogya.",
+          "Hwee nni hɔ sε Yesu mogya.",
         ],
         [
           "M’asomdwoe, anidasoɔ ni",
-          "Hwee nni hɔ sε yesu mogya",
+          "Hwee nni hɔ sε Yesu mogya",
           "Me tenenee nyinaa nso ni",
-          "Hwee nni hɔ sε yesu mogya.",
+          "Hwee nni hɔ sε Yesu mogya.",
         ],
       ],
     },
@@ -6432,9 +6437,9 @@ export const hymns = [
       content: [
         [
           "What can wash away my sins?",
-          "Nothng but the blood of jesus",
+          "Nothng but the blood of Jesus",
           "What can make me whole again?",
-          "Nothn but the blood of jesus.",
+          "Nothn but the blood of Jesus.",
         ],
         [
           "Chorus",
@@ -6444,21 +6449,21 @@ export const hymns = [
         ],
         [
           "For my pardon this i see,",
-          "Nothing but the blood of jesus",
+          "Nothing but the blood of Jesus",
           "For my cleansing, this my plea,",
-          "Nothing but the blood of jesus.",
+          "Nothing but the blood of Jesus.",
         ],
         [
           "Nothing can for sin atone,",
-          "Nothing but the blood of jesus",
+          "Nothing but the blood of Jesus",
           "Naught of good that i have done,",
-          "Nothing but the blood of jesus.",
+          "Nothing but the blood of Jesus.",
         ],
         [
           "This is all my hope and peace,",
-          "Nothing but the blood of jesus",
+          "Nothing but the blood of Jesus",
           "This is all my righteousness,",
-          "Nothing but the blood of jesus.",
+          "Nothing but the blood of Jesus.",
         ],
       ],
     },
@@ -6733,10 +6738,10 @@ export const hymns = [
     number: "104",
     twi: {
       number: "104",
-      title: "monkamfo yesu din",
+      title: "monkamfo Yesu din",
       content: [
         [
-          "Monyinaa monkamfo yesu din",
+          "Monyinaa monkamfo Yesu din",
           "Abɔfoɔ mutu fam",
           "Momfa ahenkyε mεhyε no",
           "Na monsi no ɔhempɔn.",
@@ -6766,7 +6771,7 @@ export const hymns = [
       title: "all hail the power",
       content: [
         [
-          "All hail the power of jesus’ name;",
+          "All hail the power of Jesus’ name;",
           "Let angels prostrate fall",
           "Let angels prostrate fall",
           "They bro’t the royal diadem",
@@ -6840,7 +6845,7 @@ export const hymns = [
         [
           "Hear me now",
           "Hear my humble plea",
-          "While to god in prayer i’m calling",
+          "While to God in prayer i’m calling",
           "Intercede for me",
         ],
         ["Chorus", "Savior, Savior, hear my humble cry"],
@@ -6869,7 +6874,7 @@ export const hymns = [
     number: "106",
     twi: {
       number: "106",
-      title: "nyame yeyi w’ayε",
+      title: "Nyame yeyi w’ayε",
       content: [
         ["Nyame yeyi w’ayε", "Wo dɔba no nti", "Yesu a owui na ɔkɔ soro hɔ."],
         [
@@ -6905,9 +6910,9 @@ export const hymns = [
       title: "revive us again",
       content: [
         [
-          "We praise thee, o god",
+          "We praise thee, o God",
           "For the son of thy love",
-          "For jesus who died and is now gone above.",
+          "For Jesus who died and is now gone above.",
         ],
         [
           "Chorus",
@@ -6918,7 +6923,7 @@ export const hymns = [
           "Revive us again.",
         ],
         [
-          "We praise thee, o god,",
+          "We praise thee, o God,",
           "For thy spirit of light,",
           "Who has shown us our saviour,",
           "And scattered our night.",
@@ -6934,15 +6939,15 @@ export const hymns = [
     number: "107",
     twi: {
       number: "107",
-      title: "gyefoɔ yesu kyerε me kwan",
+      title: "gyefoɔ Yesu kyerε me kwan",
       content: [
         [
-          "Gyefoɔ yesu kyerε me kwan",
+          "Gyefoɔ Yesu kyerε me kwan",
           "Ɔbra ahum po no so",
           "Asorekye adi m’anim",
           "Abotan ahunta me",
           "Ɔkwankyerεfoɔ ne wo",
-          "Gyefoɔ yesu kyerε me kwan.",
+          "Gyefoɔ Yesu kyerε me kwan.",
         ],
         [
           "Sε εna kyε ne ba so no",
@@ -6950,7 +6955,7 @@ export const hymns = [
           "Asorokye mpo tie wo nne",
           "Sε wo see wɔn sε yε komm",
           "Po so tumfoɔ nwanwani",
-          "Gyefoɔ yesu kyerε me kwan.",
+          "Gyefoɔ Yesu kyerε me kwan.",
         ],
         [
           "Awiei n’mebεn mpoano hɔ a",
@@ -7069,7 +7074,7 @@ export const hymns = [
       title: "obi nni hɔ",
       content: [
         [
-          "Adamfo bi nni hɔ sε yesu no",
+          "Adamfo bi nni hɔ sε Yesu no",
           "Bi nni hɔ, bi nni hɔ",
           "Obi nni hɔ a otumi sa yεn yare",
           "Bi nni hɔ, bi nni hɔ.",
@@ -7113,7 +7118,7 @@ export const hymns = [
       title: "no not one",
       content: [
         [
-          "There’s not a friend like the lowly jesus,",
+          "There’s not a friend like the lowly Jesus,",
           "No not one, no not one",
           "None else could heal all our soul’s disease,",
           "No not one, no not one",
@@ -7188,7 +7193,7 @@ export const hymns = [
       title: "the church’s one foundation",
       content: [
         [
-          "The church’s one foundation is jesus christ our lord",
+          "The church’s one foundation is Jesus christ our lord",
           "She is his new creation by water and the word",
           "From heaven he came and sought her",
           "To be his holy bride",
@@ -7263,7 +7268,7 @@ export const hymns = [
           "Ma woadi nim bio",
           "Ko mmarimmaso daa",
           "Di wakɔnnɔ so",
-          "Hwε yesu ara daa",
+          "Hwε Yesu ara daa",
           "Ɔbε ye wo afi mu.",
         ],
         [
@@ -7277,11 +7282,11 @@ export const hymns = [
         [
           "Gyae fekuo bɔne no",
           "Ne kasa bɔne nyinaa",
-          "Di nyame ne din nni",
+          "Di Nyame ne din nni",
           "Na mfa nni agorɔ",
           "Dwene na yε nsiyε",
           "Yε adɔe, di nokorε",
-          "Hwε yesu ara daa.",
+          "Hwε Yesu ara daa.",
           "Ɔbεyi wo afi mu.",
         ],
         [
@@ -7291,7 +7296,7 @@ export const hymns = [
           "Gyidie bedi nim",
           "Nea ɔyε yεn gyefoɔ",
           "Ɔbεhyε yεn den",
-          "Hwε yesu ara daa",
+          "Hwε Yesu ara daa",
           "Ɔbεyi wo afi mu.",
         ],
       ],
@@ -7305,7 +7310,7 @@ export const hymns = [
           "For yieldingis sin",
           "Each vict’ry will help you some other to win",
           "Fight manfully onward",
-          "Dark passions subdue, look ever to jesus,",
+          "Dark passions subdue, look ever to Jesus,",
           "He will carry you thru",
         ],
         [
@@ -7319,13 +7324,13 @@ export const hymns = [
           "Shun evil companions, bad language disdain",
           "God’s name hold in reverence, nor take it in vain",
           "He thoughtful and earnest, kindhearted and true",
-          "Look ever to jesus, he will carry you thru.",
+          "Look ever to Jesus, he will carry you thru.",
         ],
         [
-          "To him that o’er cometh, god giveth a crown,",
+          "To him that o’er cometh, God giveth a crown,",
           "Thru faith we shall conquer, tho often cast down",
           "He, who is our saviour, our strength will renew",
-          "Look ever to jesus, he will carry you thru.",
+          "Look ever to Jesus, he will carry you thru.",
         ],
       ],
     },
@@ -7352,7 +7357,7 @@ export const hymns = [
           "Ɔdasuom afɔdifoɔ nti",
           "Yea nip ate mogya fifire",
           "Ɔno a ɔkotɔ yea mu",
-          "Nanso ne nyame ampa no.",
+          "Nanso ne Nyame ampa no.",
         ],
         [
           "Ɔdasuom sareso man nyinaa",
@@ -7382,7 +7387,7 @@ export const hymns = [
           "Tis midnight and for others guilt",
           "The man of sorrows sweats as blood",
           "Yet he who hath in anguish knelt",
-          "Is not forsaken by his god.",
+          "Is not forsaken by his God.",
         ],
         [
           "Tis midnight, and from ether plains",
@@ -7437,10 +7442,10 @@ export const hymns = [
     number: "115",
     twi: {
       number: "115",
-      title: "meda yesu basa mu fɔmm",
+      title: "meda Yesu basa mu fɔmm",
       content: [
         [
-          "Meda yesu asa m’fɔmm",
+          "Meda Yesu asa m’fɔmm",
           "Metwere ne bo mu komm",
           "Ne dɔ no kata me so",
           "Me kra bεhome hɔ komm.",
@@ -7458,7 +7463,7 @@ export const hymns = [
           "Me kra bεhome hɔ komm.",
         ],
         [
-          "Meda yesu basa m’fɔmm",
+          "Meda Yesu basa m’fɔmm",
           "Mafi adwendwene mu",
           "Mafi wiase ngyegyeε mu",
           "Bɔne ntumi nha me hɔ",
@@ -7481,10 +7486,10 @@ export const hymns = [
     },
     english: {
       number: "S.S. 494",
-      title: "safe in the arms of jesus",
+      title: "safe in the arms of Jesus",
       content: [
         [
-          "Safe in the arms of jesus, safe on his gentle breast",
+          "Safe in the arms of Jesus, safe on his gentle breast",
           "There by his love o’er shaded, sweetly my soul shall rest",
           "Hark! tis the voici of angels, borne in a song to me",
           "Over the fields of glory, over the jasper sea.",
@@ -7496,14 +7501,14 @@ export const hymns = [
           "There by his love o’er shaded , sweetly my soul shall rest.",
         ],
         [
-          "Safe in the arms of jesus, safe from corroding care",
+          "Safe in the arms of Jesus, safe from corroding care",
           "Safe from the world’s temptations,",
           "Sin cannot harm me there",
           "Free from the blight of sorrow,free from my doubts and",
           "Fears, only a few more trials,only a few more tears.",
         ],
         [
-          "Jesus, my heart’s dear refuge, jesus has died for me",
+          "Jesus, my heart’s dear refuge, Jesus has died for me",
           "Firm on the rock of ages, ever my trust shall be",
           "Here let me wait with patience, wait till the night is o’er",
           "Wait till i see the morning break on the golden shore",
@@ -7567,7 +7572,7 @@ export const hymns = [
           "Because he loved me so",
         ],
         [
-          "Till jesus comes i’ll sing his praise",
+          "Till Jesus comes i’ll sing his praise",
           "And then to glory go,",
           "And live whti thim thru endless days",
           "Because he loved me so.",
@@ -7864,7 +7869,7 @@ export const hymns = [
           "There’s wonderful pow’r in the blood.",
         ],
         [
-          "Would you do service for jesus your king",
+          "Would you do service for Jesus your king",
           "There’s pow’r in the blood, pow’r in the blood",
           "Would you live daily, his praises to sing?",
         ],
@@ -7942,7 +7947,7 @@ export const hymns = [
     number: "122",
     twi: {
       number: "122",
-      title: "yεn nyame te ase",
+      title: "yεn Nyame te ase",
       content: [
         [
           "Nyame bi wɔ wiem akyiri hɔ a",
@@ -7960,18 +7965,18 @@ export const hymns = [
         ],
         [
           "Tete merε bi a atwam no",
-          "Adiyifoɔ tee nyame no nne",
-          "Ɔne nyame a εwɔ sε yε hu",
+          "Adiyifoɔ tee Nyame no nne",
+          "Ɔne Nyame a εwɔ sε yε hu",
           "Ɔkasa fi ne nsεm kronkron m’.",
         ],
         [
           "Ɔde nkwa asie nnipa adwene",
           "Nyame kura naboaa wɔ ne nsam",
           "Nnipa hwehwε mpo a wɔ’nhu",
-          "Fi sε nyame nko na ɔte ase.",
+          "Fi sε Nyame nko na ɔte ase.",
         ],
         [
-          "Wɔsεn yεn nyame ba dua so",
+          "Wɔsεn yεn Nyame ba dua so",
           "Ɔfii ne pεm de ne nkwa maeε",
           "Sε ɔbεgye nnipa afi bɔne m’",
           "Na yε ne no atena daa daa.",
@@ -8185,7 +8190,7 @@ export const hymns = [
         [
           "Yε bu yεn bra wɔ asaase yi so",
           "Sεdeε εrentwam da",
-          "Yεwerεfi nyame wɔ asetra mu",
+          "Yεwerεfi Nyame wɔ asetra mu",
           "Ma adamfo pa yi werε ho.",
         ],
         [
@@ -8220,7 +8225,7 @@ export const hymns = [
         [
           "We live each day of this earthly life.",
           "As tho it ne’er would end",
-          "Forgetting god inour daily strife",
+          "Forgetting God inour daily strife",
           "Grieving this precious friend.",
         ],
         [
@@ -8398,13 +8403,13 @@ export const hymns = [
     number: "130",
     twi: {
       number: "130",
-      title: "asomdwoe, nyame dɔ akyεdeε",
+      title: "asomdwoe, Nyame dɔ akyεdeε",
       content: [
         [
           "Nkateε dεdε ba makomam",
           "Εyε ahosεpε dwom bi",
           "Mekɔso to no merε nyinaa",
-          "Somdwoe nyame dɔ akyεdeε",
+          "Somdwoe Nyame dɔ akyεdeε",
         ],
         [
           "Nyesoɔ",
@@ -8418,31 +8423,31 @@ export const hymns = [
           "Kristo gye asomdwoe asendua so",
           "Ɔde ne wuo tuaa me ka nyinaa",
           "Obi nto fapem foforɔ bi",
-          "Somdwoe nyame dɔ akyεdeε.",
+          "Somdwoe Nyame dɔ akyεdeε.",
         ],
         [
-          "Berε a me faa yesu sε me wura",
+          "Berε a me faa Yesu sε me wura",
           "Makoma nyaa saa asomdwoe yi",
           "Ne mu mεnya nhyira mapa",
-          "Somdwoe nyame dɔ akyεdeε",
+          "Somdwoe Nyame dɔ akyεdeε",
         ],
         [
-          "Mete yesu mu pε asomdwoe",
+          "Mete Yesu mu pε asomdwoe",
           "Na mekɔso twi bεn no yi",
           "Asomdwoe nkutoo na menya",
-          "Somdwoe nyame dɔ akyεdeε.",
+          "Somdwoe Nyame dɔ akyεdeε.",
         ],
       ],
     },
     english: {
       number: "S.S. 465",
-      title: "sweet peace, the gift of god’s love",
+      title: "sweet peace, the gift of God’s love",
       content: [
         [
           "There comes to my heart one sweet strain,",
           "A glad and a joyous refrain,",
           "I sing it again and again,",
-          "Sweet peace, the gift of god’s love.",
+          "Sweet peace, the gift of God’s love.",
         ],
         [
           "Chorus",
@@ -8455,19 +8460,19 @@ export const hymns = [
           "Thro’ christ on the cross peace was made",
           "My debt by his death was all paid",
           "No other foundation is laid, for peace,",
-          "The gift of god’s love",
+          "The gift of God’s love",
         ],
         [
-          "When jesus as lord i had crowned",
+          "When Jesus as lord i had crowned",
           "My heart this peace did abound",
           "In him the rich blessing i found,",
-          "Sweet peace, the gift of god’s love .",
+          "Sweet peace, the gift of God’s love .",
         ],
         [
-          "In jesus for peace i abide,",
+          "In Jesus for peace i abide,",
           "And as i keep close to his side,",
           "There’s nothng but peace betide,",
-          "Sweet peace, the gift of god’s love.",
+          "Sweet peace, the gift of God’s love.",
         ],
       ],
     },
@@ -8681,7 +8686,7 @@ export const hymns = [
       title: "sε ahotefoɔ kɔ εsoro a",
       content: [
         [
-          "To yesu dɔ nwanwa ho dwom",
+          "To Yesu dɔ nwanwa ho dwom",
           "N’;ahummɔborɔ ne n’adom",
           "Adan pa a wahyira so mu",
           "Na ɔbε pε baabi ama yεn.",
@@ -8719,7 +8724,7 @@ export const hymns = [
       title: "when the saved get to heaven",
       content: [
         [
-          "Sing the wondrous love of jesus,",
+          "Sing the wondrous love of Jesus,",
           "Sing his mercy and his grace",
           "In the mansions, bright and blessed,",
           "He’ll prepare for us a place",
@@ -8855,7 +8860,7 @@ export const hymns = [
           "Ma wo adɔeε no nyε homa",
           "Nkye m’akoma mfam wo ho",
           "Mma me mmfi wo ho da biara da",
-          "Mennya nyame a medɔ no",
+          "Mennya Nyame a medɔ no",
           "M’akoma nie, gye na sɔ ano",
           "Sɔ ano ma soro nnwuma.",
         ],
@@ -8879,7 +8884,7 @@ export const hymns = [
           "And i hope by the pleasure",
           "Safely to arrive at home",
           "Jesus sought me when a stranger",
-          "Wand’ring from the fold of god.",
+          "Wand’ring from the fold of God.",
         ],
         [
           "O to grace how great a debtor",
@@ -8887,7 +8892,7 @@ export const hymns = [
           "Let thy goodness like a fetter",
           "Bind my wand’ring heart to thee",
           "Never let me wander from thee",
-          "Never leave the god i love.",
+          "Never leave the God i love.",
         ],
       ],
     },
@@ -9140,7 +9145,7 @@ export const hymns = [
         ],
         [
           "Anwanwa dɔ nid, adom kronkron nie",
-          "Sε yesu bεwuu maa me",
+          "Sε Yesu bεwuu maa me",
           "Na mayera bɔnem, medii wiase akyi",
           "Afei me de me ho.",
         ],
@@ -9173,7 +9178,7 @@ export const hymns = [
         [
           "O what wonderful love",
           "O what grace divine",
-          "That jesus should die for me",
+          "That Jesus should die for me",
           "I was lost in sin",
           "For the world i pined",
           "But now i am set free.",
@@ -9274,7 +9279,7 @@ export const hymns = [
         ],
         [
           "Mekyerε wɔn a wɔayera, akra a wɔayε merε",
-          "Me wura pirafoɔ yesu nkyεn kwan",
+          "Me wura pirafoɔ Yesu nkyεn kwan",
           "Mεdi wɔn anim nkagye kwan so",
           "Makyerε wɔn kwan akɔ daa nkwa mu.",
         ],
@@ -9305,7 +9310,7 @@ export const hymns = [
           "Of my redeemer.",
         ],
         [
-          "Seeking the lost andpointing to jesus",
+          "Seeking the lost andpointing to Jesus",
           "Souls that are weak and hearts that are sore",
           "Leading them forth in ways of salvation",
           "Showing the path to life ever more.",
@@ -9314,7 +9319,7 @@ export const hymns = [
           "Thus i would go on missions of mercy,",
           "Following christ from day unto day",
           "Cheering the faint, and raising the fallen",
-          "Pointing the lost to jesus the way.",
+          "Pointing the lost to Jesus the way.",
         ],
       ],
     },
@@ -9340,13 +9345,13 @@ export const hymns = [
           "Ato no an’uonyam mu.",
         ],
         [
-          "Meyerae na yesu huu me",
+          "Meyerae na Yesu huu me",
           "Sε odwan a wafom kwan",
           "Ɔde ne dɔ basa sɔ m’mu",
           "Twee me baa ne kwan so bio",
         ],
         [
-          "Mepirae, yesu yεε m’aduro",
+          "Mepirae, Yesu yεε m’aduro",
           "M’asehwe maa me tɔɔ piti",
           "M’ani firae, na εhu kaa me",
           "Na ɔgyee me fii ne nyinaa mu.",
@@ -9384,13 +9389,13 @@ export const hymns = [
           "Gathered by the crystal sea.",
         ],
         [
-          "I was lost, but jesus found me",
+          "I was lost, but Jesus found me",
           "Found the sheep that went astray",
           "Threw his loving arms around me",
           "Drew me back into his way",
         ],
         [
-          "I was bruised, but jesus healed me",
+          "I was bruised, but Jesus healed me",
           "Faint was i from many afall",
           "Sight was gone, and fears possessed me",
           "But he freed me from them all,",
@@ -9464,9 +9469,9 @@ export const hymns = [
       content: [
         [
           "M’nidasoɔ nyinaa biribi a so",
-          "Sε yesu mogya ne tenenee",
+          "Sε Yesu mogya ne tenenee",
           "Mentumi ntwere wiase dε mpo",
-          "Mede meho to yesu so.",
+          "Mede meho to Yesu so.",
         ],
         [
           "Nyesoɔ",
@@ -9500,9 +9505,9 @@ export const hymns = [
       content: [
         [
           "My hope is built on nothing less",
-          "Than jesus blood and righteousness",
+          "Than Jesus blood and righteousness",
           "I dar not to trust the sweetness frame",
-          "But wholly lean on jesus’ name.",
+          "But wholly lean on Jesus’ name.",
         ],
         [
           "Chorus",
@@ -9536,10 +9541,10 @@ export const hymns = [
     number: "146",
     twi: {
       number: "146",
-      title: "yesu ho nsεm pii",
+      title: "Yesu ho nsεm pii",
       content: [
         [
-          "Mesua yesu ho nsεm no pii",
+          "Mesua Yesu ho nsεm no pii",
           "Mεka n’adom no akyerε pii",
           "Mεhu ne nkwagye mayε pii",
           "Mepε m’agyenkwa dɔ no pii.",
@@ -9553,19 +9558,19 @@ export const hymns = [
           "Mepε m’Agyenkwa dɔ no pii.",
         ],
         [
-          "Ma mensua yesu ho nsεm pii",
+          "Ma mensua Yesu ho nsεm pii",
           "Na menhu ne pε kronkron pii",
           "Nyame honhom nyε me kyerεkyerεfoɔ",
           "Εnyi Kristo adi nkyerε me.",
         ],
         [
-          "Mehu yesu wɔ n’asεm mu pii",
+          "Mehu Yesu wɔ n’asεm mu pii",
           "Me ne me wura di nkitaho",
           "Mete ne nne n’asεm bi a mu",
           "Mema ne nsεm no fa me ho",
         ],
         [
-          "Ka ɔhene yesu ho nsεm pii",
+          "Ka ɔhene Yesu ho nsεm pii",
           "Anuonyam nyinaa yε ne de",
           "Na ahenie no nkɔ so nterε pii",
           "Asomdwoe hene no bεba bio",
@@ -9574,7 +9579,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 43",
-      title: "more about jesus",
+      title: "more about Jesus",
       content: [
         [
           "More about jesu would i know",
@@ -9591,19 +9596,19 @@ export const hymns = [
           "More of his love who died for me.",
         ],
         [
-          "More about jesus let me learn",
+          "More about Jesus let me learn",
           "More of his holy will discern",
-          "Spirit of god my teacher be",
+          "Spirit of God my teacher be",
           "Showing the t ings of christ to me",
         ],
         [
-          "More about jesus in his word",
+          "More about Jesus in his word",
           "Holding communion with my lord",
           "Hearing his voice in every line",
           "Making each faithful saying mine",
         ],
         [
-          "More about jesus on his throne",
+          "More about Jesus on his throne",
           "Riches in glory all his own",
           "More of his kingdom’s sure increase",
           "More of his coming, prince of peace",
@@ -9622,7 +9627,7 @@ export const hymns = [
           "Εyε anigye nsoroma",
           "Εkyekye kwantuni brεfoɔ werε",
           "Ahum bi ntumi nnha saa nsoroma yi nkyε",
-          "Fi sε yesu baa bεgyee deε wayera.",
+          "Fi sε Yesu baa bεgyee deε wayera.",
         ],
         [
           "Nyesoɔ",
@@ -9637,8 +9642,8 @@ export const hymns = [
           "Fa twerε no ma me",
           "Berε a mekoma ayε merε",
           "Na bɔne hu ahyε me kra ma",
-          "Fa nsεmpa a yesu aka no ma me",
-          "Ma gyedie kanea so sε yesu abεn.\\",
+          "Fa nsεmpa a Yesu aka no ma me",
+          "Ma gyedie kanea so sε Yesu abεn.\\",
         ],
         [
           "Fa twerε no ma me",
@@ -9664,7 +9669,7 @@ export const hymns = [
           "Give me the bible, star of gladness",
           "To cheer the wanderer one and tempest tossed;",
           "No storms can hide that radiance peaceful beaming",
-          "Since jesus came to seek and save the lost.",
+          "Since Jesus came to seek and save the lost.",
         ],
         [
           "Chorus",
@@ -9676,7 +9681,7 @@ export const hymns = [
         [
           "Give me the bible when my heart is broken",
           "When sin and grief have filled my soul with fear",
-          "Give me the precious words by jesus spoken",
+          "Give me the precious words by Jesus spoken",
           "Hold up faith’s lamp to show my savior near.",
         ],
         [
@@ -9795,7 +9800,7 @@ export const hymns = [
         ],
         [
           "Εnti sε ɔhaw no mu yε den sεn ara",
-          "Nya abotɔyam nyame no a bεkyerε\\",
+          "Nya abotɔyam Nyame no a bεkyerε\\",
           "Kan wo nhyira pii no ma abɔfo bεtie",
           "Εbεma wo awerεkyekye akwantu yi mu.",
         ],
@@ -9833,7 +9838,7 @@ export const hymns = [
         ],
         [
           "So, amid the conflict whether great or small,",
-          "Do not be discouraged, god is over all",
+          "Do not be discouraged, God is over all",
           "Count your many blessings, angels will attend",
           "Help and comfort give you to your journey send.",
         ],
@@ -9847,7 +9852,7 @@ export const hymns = [
       title: "tie, εnne brεoo no",
       content: [
         [
-          "Tie! wo yesu nne dεεdε no refrε",
+          "Tie! wo Yesu nne dεεdε no refrε",
           "Εgyegye brεoo woaso mu",
           "Ɔrefrε ɔdɔ ne ahumɔbrɔ mu",
           "Dan woani tie twεn n ate.",
@@ -9913,24 +9918,24 @@ export const hymns = [
       content: [
         [
           "Wo dɔ a εho yεna no tra εnhunumu",
-          "M’agyenkwa yesu nanso me kra yi",
+          "M’agyenkwa Yesu nanso me kra yi",
           "Pε sε ohub wo dɔ no kεseyε",
           "Ne trε ne korɔn, εmu dɔ",
           "Ne ne den a εyε nyinaa.",
         ],
         [
           "Wo dɔ a ho yε na no tra asεmka",
-          "M’agyenkwa yesu nanso mano yi",
+          "M’agyenkwa Yesu nanso mano yi",
           "Pεs ε ɔka kyerε abεnefoɔ nyinaa",
           "Sε wo dɔ yi tumi yi afɔdie",
           "Na εwo ɔdɔ.",
         ],
         [
           "Wo dɔ a εho yε na no tra ayεyie",
-          "M’agyenkwa yesu nanso m’akoma yi",
+          "M’agyenkwa Yesu nanso m’akoma yi",
           "Pε- sε ɔkamfo dɔ nwanwaso yi a",
           "Εtwe bεneyεfoɔ",
-          "Te sε me pini nyame nkyεn.",
+          "Te sε me pini Nyame nkyεn.",
         ],
         [
           "Yesu agyenkwa fa wo dɔ hyε me ma",
@@ -9940,7 +9945,7 @@ export const hymns = [
           "Mmfa baabiara bio.",
         ],
         [
-          "Sε mehu me yesu na anim a",
+          "Sε mehu me Yesu na anim a",
           "Na me koto nahenwa no anim",
           "Ne dɔ no kεseyε ne εmud u",
           "Ne trε, ne krɔn ne den a εyε",
@@ -9985,7 +9990,7 @@ export const hymns = [
           "Sɔhwε, awerεhoɔ anaa yea bi nni",
           "Hɔ da mu dɔn biara mu",
           "Sε yε kyerε yεn kra sε ɔmɔ mpae",
-          "Wɔ yεn wura yesu din mua",
+          "Wɔ yεn wura Yesu din mua",
         ],
       ],
     },
@@ -10016,7 +10021,7 @@ export const hymns = [
         [
           "There is no trial,grief, or pain,",
           "No moment of the day",
-          "But tha we may in jesus’ name",
+          "But tha we may in Jesus’ name",
           "Incline our souls and pray.",
         ],
       ],
@@ -10252,7 +10257,7 @@ export const hymns = [
           "Wɔ bea owia rentɔ bio.",
         ],
         [
-          "Mεyε nyame ba daa nyinaa a",
+          "Mεyε Nyame ba daa nyinaa a",
           "Twa sε me kanea hyerεn kwan nom",
           "Mεkamfo no mere retwam yi",
           "Na maboa ɔkra ɔwɔ haw mu.",
@@ -10296,7 +10301,7 @@ export const hymns = [
           "Where there will be no setting sun.",
         ],
         [
-          "To be a child of god each day",
+          "To be a child of God each day",
           "By light must shine along the way",
           "I’ll sing his praise while ages",
           "Roll and strive to help the best i can,",
@@ -10304,7 +10309,7 @@ export const hymns = [
         ],
         [
           "The only life that will endure is one that’s",
-          "Kind and good and pure and so for |god",
+          "Kind and good and pure and so for |God",
           "I’ll take my stand each day i’ll lend a helping hand",
           "A helping hand.",
         ],
@@ -10402,7 +10407,7 @@ export const hymns = [
           "Da biara metwere no",
           "Metwere no asorɔkye kwan mu",
           "Sε me gyedi sua mpo a",
-          "Sε metwere yesu nko a n a εhia",
+          "Sε metwere Yesu nko a n a εhia",
         ],
         [
           "Nyesoɔ",
@@ -10416,30 +10421,30 @@ export const hymns = [
           "Ne honhom no hyerεn wɔ",
           "Me mmɔborɔ akoma yi mu",
           "Ɔdi manim a menhwe ase",
-          "Sε metwere yesu nko a n’εhia.",
+          "Sε metwere Yesu nko a n’εhia.",
         ],
         [
           "Meto dwom me hu kwan mu a",
           "Mebɔ mpae kwan no mu yε hu a",
           "Mefrε no amaneε mu",
-          "Sε mεtwere yesu nkoa n’εhia.",
+          "Sε mεtwere Yesu nkoa n’εhia.",
         ],
         [
           "Metwere no mete nkwan mu yi",
           "Kosi sε asaase bεtwa m’",
           "Na mεhyεn n ‘aban no mu",
-          "Sε mεtwere yesu nko a n’εhia.",
+          "Sε mεtwere Yesu nko a n’εhia.",
         ],
       ],
     },
     english: {
       number: "S.S. 378",
-      title: "trusting jesus, that is all",
+      title: "trusting Jesus, that is all",
       content: [
         [
           "Simply trusting ev’ry day, trusting thru a stormay way",
           "Even when my faith is small",
-          "Trusting jesus, that is all.",
+          "Trusting Jesus, that is all.",
         ],
         [
           "Chorus",
@@ -10458,13 +10463,13 @@ export const hymns = [
           "Singing, if my way siclear",
           "Praying if the path is drear",
           "If in danger for him call",
-          "Trusting jesus, that is all",
+          "Trusting Jesus, that is all",
         ],
         [
           "Trusting him while life shall last",
           "Trusting him till earth is past",
           "Till within the jasper wall",
-          "Trusting jesus, that is all.",
+          "Trusting Jesus, that is all.",
         ],
       ],
     },
@@ -10477,7 +10482,7 @@ export const hymns = [
       content: [
         [
           "Enti wo abrabɔ ye nhyira kwan?",
-          "Onyame dɔ tene fa wo mu?",
+          "ONyame dɔ tene fa wo mu?",
           "Wode agyenkwa kyerε wεn a wɔayera",
           "Wo ayε ahoboa sε wobε som no?",
           "Nyeosɔ",
@@ -10512,7 +10517,7 @@ export const hymns = [
       content: [
         [
           "Is your life a channel of blessing?",
-          "Is the love of god flowing thru you?",
+          "Is the love of God flowing thru you?",
           "Are you telling the lost of the savior?",
           "Are you ready his service to do?",
         ],
@@ -10622,7 +10627,7 @@ export const hymns = [
       content: [
         [
           "Yε adwuma no, yε adwuma no",
-          "Yε yε nyame asomfoɔ",
+          "Yε yε Nyame asomfoɔ",
           "Moma yεn nni yɔn wura anamɔn no akyi",
           "Moma yεn nfa na afutu",
           "No nhyε yεn ho den",
@@ -10666,7 +10671,7 @@ export const hymns = [
       title: "to the work",
       content: [
         [
-          "To the work, we are servants of god",
+          "To the work, we are servants of God",
           "Let us follow the path that our master has tred",
           "With the balm of his counsel our strength to renew",
           "Let us do with our night what our hands find to do",
@@ -10724,7 +10729,7 @@ export const hymns = [
         ],
         [
           "Me pε sε menya ahoɔden ne aboɔduru",
-          "Na metwere yesu nkwagye tumi no",
+          "Na metwere Yesu nkwagye tumi no",
           "Wɔn a wɔba nokoprε mu",
           "Benya anigye tenabea",
           "Wɔ awurade ahenie mu.",
@@ -10751,7 +10756,7 @@ export const hymns = [
         ],
         [
           "Neare, still neare, nothing i bring",
-          "Naught as an offring to jesus my king",
+          "Naught as an offring to Jesus my king",
           "Only my sinful now contrite heart",
           "Grant me the cleansing thy blood doth impart",
           "Grant me the cleansing thy blood doth impart.",
@@ -10761,8 +10766,8 @@ export const hymns = [
           "Sin with its follies i gladly resign",
           "All of its pleasures pump and its pride",
           "Give me but anchor is cast,tho’endless ages",
-          "Ever to be, nearer, my jesus my lord crucified",
-          "Give but jesus my lord crucified.",
+          "Ever to be, nearer, my Jesus my lord crucified",
+          "Give but Jesus my lord crucified.",
         ],
         [
           "Nearer, still nearer, while life shall last",
@@ -10781,7 +10786,7 @@ export const hymns = [
       title: "ɔde mekra sie",
       content: [
         [
-          "Agyenkwa nwanwa bi ne yesu me wura",
+          "Agyenkwa nwanwa bi ne Yesu me wura",
           "Ɔyε agyenkwa nwanwa ma me",
           "Ɔde mekra sie ɔbotan bɔn no mu",
           "Deε mehu anigye nsuo no.",
@@ -10796,7 +10801,7 @@ export const hymns = [
           "ɔde ne nsa kata me so.",
         ],
         [
-          "Agyenkwa nwanwa bi ne yesu me wura",
+          "Agyenkwa nwanwa bi ne Yesu me wura",
           "Ɔyi m’adesoa fi hɔ",
           "Ɔma me gyina na merenhimhim da",
           "Ɔma mahoɔden daa nyinaa.",
@@ -10820,7 +10825,7 @@ export const hymns = [
       title: "he hideth my soul",
       content: [
         [
-          "A wonderful savior is jesus my lord",
+          "A wonderful savior is Jesus my lord",
           "A wonderful saviour to me",
           "He hideth my soul in the cleft of the rock,",
           "Where rivers of pleasure i see.",
@@ -10835,7 +10840,7 @@ export const hymns = [
           "And covers me there with his hand.",
         ],
         [
-          "A wonderful savior is jesus my lord",
+          "A wonderful savior is Jesus my lord",
           "He taketh my burden away",
           "He holdeth me up and i shall not be moved",
           "He giveth me strength my day",
@@ -10843,7 +10848,7 @@ export const hymns = [
         [
           "With numberless blessings each moment he crowns",
           "And filled with his fullness divine",
-          "I sing in my raptures o glory to god",
+          "I sing in my raptures o glory to God",
           "For shuch a redeemer as mine",
         ],
         [
@@ -10881,7 +10886,7 @@ export const hymns = [
           "Mehia yesu, mehia yɔnko sε no",
           "Akyerε me kwan",
           "Sε ɔbra kwan mu duru sum a",
-          "Mehia yesu sε atamfo ba me so",
+          "Mehia Yesu sε atamfo ba me so",
           "Menim sε me nko ntumi nyina",
           "Nti mehia yesu.",
         ],
@@ -10915,7 +10920,7 @@ export const hymns = [
         ],
         [
           "Wonkyεn nko ara menkura hwee",
-          "Menni hwee de brε wo yesu me hene",
+          "Menni hwee de brε wo Yesu me hene",
           "Sε me bone koma a abubu",
           "Ma me ahote a, wo mogya no de m a",
           "Ma me ahote a, wo mogya no de ma.",
@@ -10924,8 +10929,8 @@ export const hymns = [
           "Wonkyεn nko ara me nyε wo de",
           "Me po bɔne nsεmhunu anigyem",
           "Εmu anigye ne ahomasoɔ",
-          "Fa me wura yesu a wɔsεn no ma me",
-          "Fa me wura yesu a wɔsεn no ma me",
+          "Fa me wura Yesu a wɔsεn no ma me",
+          "Fa me wura Yesu a wɔsεn no ma me",
         ],
         [
           "Wonkyεn nko ara merε a mete ase yi",
@@ -10949,7 +10954,7 @@ export const hymns = [
         ],
         [
           "Neare, still neare, nothing i bring",
-          "Naught as an offring to jesus my king",
+          "Naught as an offring to Jesus my king",
           "Only my sinful now contrite heart",
           "Grant me the cleansing thy blood doth impart",
           "Grant me the cleansing thy blood doth impart.",
@@ -10959,8 +10964,8 @@ export const hymns = [
           "Sin with its follies i gladly resign",
           "All of its pleasures pump and its pride",
           "Give me but anchor is cast,tho’endless ages",
-          "Ever to be, nearer, my jesus my lord crucified",
-          "Give but jesus my lord crucified.",
+          "Ever to be, nearer, my Jesus my lord crucified",
+          "Give but Jesus my lord crucified.",
         ],
         [
           "Nearer, still nearer, while life shall last",
@@ -11014,7 +11019,7 @@ export const hymns = [
         [
           "O listen to our wondrous story",
           "Once we dwelt among the lost",
-          "Yet jesus came from heaven glory",
+          "Yet Jesus came from heaven glory",
           "Saving us at awful cost",
         ],
         [
@@ -11029,7 +11034,7 @@ export const hymns = [
           "No angel could our place have taken",
           "Highest of the high tho he",
           "Nailed to the cross, despised, forsaken",
-          "Was one of the god head three",
+          "Was one of the God head three",
         ],
         [
           "Will you surrender to this savior?",
@@ -11050,7 +11055,7 @@ export const hymns = [
           "Megyina Kristo me hene bɔhyε noso",
           "Monyi no ayε meresanten nyinaa mu",
           "Anuonyam wɔ soro hɔ mεteεm ato",
-          "Megyina nyame bɔhyε no so",
+          "Megyina Nyame bɔhyε no so",
         ],
         [
           "Nyesoɔ",
@@ -11063,13 +11068,13 @@ export const hymns = [
         [
           "Megyina bɔhyε a εntumi ngu no so",
           "Sε akyingye ne suro mframa bɔ me a",
-          "Metintim nyame nsεm a εte ase no mu",
-          "Megyina nyame bɔhyε no so",
+          "Metintim Nyame nsεm a εte ase no mu",
+          "Megyina Nyame bɔhyε no so",
         ],
         [
           "Megyina bɔhyε a afei mehu no so",
           "Edware me te me ho mogya no mu",
-          "Megyina nyame bɔhyε no so.",
+          "Megyina Nyame bɔhyε no so.",
         ],
       ],
     },
@@ -11081,7 +11086,7 @@ export const hymns = [
           "Standing on the promises of christ my king",
           "Thru eternal ages let his praises ring",
           "Glory n the highest, i will shout and sing",
-          "Standing on the promises of god",
+          "Standing on the promises of God",
         ],
         [
           "Chorus",
@@ -11092,7 +11097,7 @@ export const hymns = [
         [
           "Standing on the promises that cannot fall",
           "When the howling storms of doubt and fear as sail",
-          "By the living wordd of god i shall prevail",
+          "By the living wordd of God i shall prevail",
         ],
         [
           "Standing on the promises i now can see",
@@ -11116,15 +11121,15 @@ export const hymns = [
     number: "168",
     twi: {
       number: "168",
-      title: "hwan na ɔbεdi yesu akyi?",
+      title: "hwan na ɔbεdi Yesu akyi?",
       content: [
         [
-          "Hwan na bεdi yesu akyi?",
+          "Hwan na bεdi Yesu akyi?",
           "Agyina ama tenenee",
           "Ama ne frankaa no so",
           "Wɔko kεse mu",
           "Atie ne mara no pεsp ɔbεdi so",
-          "Hwan na bεdi yesu akyi asom no εnnε?",
+          "Hwan na bεdi Yesu akyi asom no εnnε?",
         ],
         [
           "Nyesoɔ",
@@ -11137,13 +11142,13 @@ export const hymns = [
           "Mewɔ Awurade afa me wura me wɔ ha.",
         ],
         [
-          "Hwan na ɔbεdi yesu akyi abrabɔ yi mu",
+          "Hwan na ɔbεdi Yesu akyi abrabɔ yi mu",
           "Yε adwuma ma owura no ayi no ayε",
           "Abɔ mɔden n’afuom adi ne mara so",
           "Atie n’afotuo ahwε ne ho yie.",
         ],
         [
-          "Hwan n’ɔbεdi yesu akyi sε nkɔhwε ba a",
+          "Hwan n’ɔbεdi Yesu akyi sε nkɔhwε ba a",
           "Adwan’ akɔ asomdwoe agyenkwa no nsam",
           "Atwere n’ahumɔbɔ atwere ne tumi",
           "Ahwehwɔ ayε foforo n’adom mu merε nyinaa",
@@ -11152,13 +11157,13 @@ export const hymns = [
     },
     english: {
       number: "S.S. 185",
-      title: "who will follow jesus?",
+      title: "who will follow Jesus?",
       content: [
         [
-          "Who will follow jesus, standing for the right",
+          "Who will follow Jesus, standing for the right",
           "Holding up his banner in the thickest flight?",
           "List’ning for his orders, ready to obey",
-          "Who will follow jesus, serving him today?",
+          "Who will follow Jesus, serving him today?",
         ],
         [
           "Chorus",
@@ -11169,19 +11174,19 @@ export const hymns = [
           "‘I am on the Lord’s side.",
         ],
         [
-          "Who will follow jesus, in life’s busy ways",
+          "Who will follow Jesus, in life’s busy ways",
           "Working for the master, giving him the praise",
           "Earnest in his vineyard, honoring his laws",
           "Faithful to his counsel, watchful for his cause?",
         ],
         [
-          "Who will follow jesus, when the temperature charms",
+          "Who will follow Jesus, when the temperature charms",
           "Fleeing, then for safety to the savior’s arms",
           "Trusting in his mercy, trusting in his pow’r",
           "Seeding fresh renewals of his grace each hour?",
         ],
         [
-          "Who will follow jesus in his work of love,",
+          "Who will follow Jesus in his work of love,",
           "Leading others to him",
           "Lifting prayers above?",
           "Courage, faithful servant",
@@ -11284,7 +11289,7 @@ export const hymns = [
         ],
         [
           "Εbia nsεmde bi wɔ hɔ εnnε",
-          "A yesu pεsε meka",
+          "A Yesu pεsε meka",
           "Εbia seisei wɔ bɔne kwan mu",
           "Kobɔfoɔ bi hia me moa",
           "O agyenkwa sε wo kyerε me kwan",
@@ -11296,7 +11301,7 @@ export const hymns = [
           "Εnyε dεn ara baabi wɔ",
           "Asaase tεtrεε yi so a",
           "Mεyε ‘dwuma me nna tia yi mu\\",
-          "Ama yesu a ɔsεn no no",
+          "Ama Yesu a ɔsεn no no",
           "Εnti mede m’ade nyinaa hyε wo nsa",
           "Na menim sε wo dɔ me",
           "Mede anibere bεyε wo pε",
@@ -11326,7 +11331,7 @@ export const hymns = [
         ],
         [
           "Perhaps today there are loving words",
-          "Which jesus would have me speak",
+          "Which Jesus would have me speak",
           "There may be now in the paths of sin",
           "Some wand’rer whom i should seek",
           "O savior, if thou wilt be my guide",
@@ -11338,7 +11343,7 @@ export const hymns = [
           "There’s surely somewhere a lowly place",
           "In earth’s harvest fields so wide",
           "Where i may labor thro’life’s short day",
-          "For jesus, the crucified",
+          "For Jesus, the crucified",
           "So trusting my all to thy tender care",
           "And knowing thou lovest me",
           "I’ll do thy will with a heart sincere",
@@ -11408,7 +11413,7 @@ export const hymns = [
       title: "bɔnhwa mu sukooko",
       content: [
         [
-          "Mafa yesu sε m’adamfo",
+          "Mafa Yesu sε m’adamfo",
           "Ɔyε me biribiara",
           "Ɔda mpemdu mu bafua ma me kra",
           "Ɔyε bɔnhwa mu sukooko",
@@ -11452,7 +11457,7 @@ export const hymns = [
       title: "the lily of the valley",
       content: [
         [
-          "I have found a friend in jesus, he’s everything to me",
+          "I have found a friend in Jesus, he’s everything to me",
           "He’s the fairest of ten thousand to my soul",
           "The lily of the valley, in him alone i see",
           "All i need to cleanse and make me fully whole",
@@ -11467,7 +11472,7 @@ export const hymns = [
           "I have all for him forsaken and all my idols torn",
           "From my heart, and now he keeps me by his pow’r",
           "Tho all the world forsake me, and satan tempt me sore",
-          "Thru jesus i shall safely reach the goal,",
+          "Thru Jesus i shall safely reach the goal,",
           "He’s the bright and morning star, he’s the fairest of",
           "Ten thousand to my soul.",
         ],
@@ -11488,7 +11493,7 @@ export const hymns = [
     number: "173",
     twi: {
       number: "174",
-      title: "nyame asafo",
+      title: "Nyame asafo",
       content: [
         [
           "Nyame abusua ne n’asɔre kronkron",
@@ -11520,7 +11525,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 212",
-      title: "the church of god",
+      title: "the church of God",
       content: [
         [
           "God’s family is his church divine",
@@ -11559,7 +11564,7 @@ export const hymns = [
       title: "aban kεse",
       content: [
         [
-          "Yεn nyame yε abankεse",
+          "Yεn Nyame yε abankεse",
           "Kyεm a enni huammɔ da",
           "Ɔno na ɔyε yεn boafoɔ",
           "Ɔbra nsuyiri yi mu",
@@ -11573,9 +11578,9 @@ export const hymns = [
           "Yεn ankasa ahoɔden mu no",
           "Yεn mmɔdenmɔ bεyε kwa",
           "Barima pa bi wɔ yεafa",
-          "Deε onyame apa no no",
+          "Deε oNyame apa no no",
           "Wobisa oniiko?",
-          "Kristo yesu ne no.",
+          "Kristo Yesu ne no.",
           "Asafo awurade",
           "Ɔnsakyera mfesanten mu",
           "Na εtwa sε odi nim",
@@ -11583,7 +11588,7 @@ export const hymns = [
         [
           "Sε bɔne ahyε wiase ma",
           "Repε sε εseε yεn a",
-          "Yεrensuro nyame ama",
+          "Yεrensuro Nyame ama",
           "N’asεm nam yεn so di nim",
           "Yεhwere ahode, abusua",
           "Na saa nkwa tia’ yin so",
@@ -11598,7 +11603,7 @@ export const hymns = [
       title: "a mighty fortress",
       content: [
         [
-          "A mighty fortress is our god.",
+          "A mighty fortress is our God.",
           "A bulwark never failing",
           "Our helper he, amid the flood",
           "Of mortal ills prevailing, for still our ancient foe",
@@ -11611,9 +11616,9 @@ export const hymns = [
           "Did we in our own strength confide",
           "Our striving would be losing",
           "Were not the right one on our side",
-          "The man of god’s own choosing",
+          "The man of God’s own choosing",
           "Dost ask who that may be?",
-          "Christ jesus, it is he",
+          "Christ Jesus, it is he",
           "Lord sabaoth his name",
           "From age to age the same",
           "And he must win the battle.",
@@ -11621,7 +11626,7 @@ export const hymns = [
         [
           "And tho’ this world with evil filled",
           "Should threaten to undo us",
-          "We will not fear, for god hath",
+          "We will not fear, for God hath",
           "Willed his truth to triumph through us",
           "Let goods and kindred go,",
           "This mortal life also",
@@ -11715,7 +11720,7 @@ export const hymns = [
     number: "176",
     twi: {
       number: "177",
-      title: "yesu frε yεn",
+      title: "Yesu frε yεn",
       content: [
         [
           "Yesu frε yεn wɔ bere a",
@@ -11751,7 +11756,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 298",
-      title: "jesus calls us",
+      title: "Jesus calls us",
       content: [
         [
           "Jesus calls us o’er the tumult of our life’s wild",
@@ -11930,7 +11935,7 @@ export const hymns = [
           "I will sing of my redeemer",
           "And his heav’nly love to me",
           "He from death to life hath brought me",
-          "Son of god with him to be.",
+          "Son of God with him to be.",
         ],
       ],
     },
@@ -12048,7 +12053,7 @@ export const hymns = [
         [
           "Sε yetena hɔ mfeε mpendu a",
           "Owia bεkɔ so ahyerεn",
-          "Yεbεkɔso ayi nyame ayε",
+          "Yεbεkɔso ayi Nyame ayε",
           "Te sε yεhyεε ase no.",
         ],
       ],
@@ -12084,7 +12089,7 @@ export const hymns = [
         [
           "When we’ve been there ten thousand years,",
           "Bright shining as the sun",
-          "We’ve no less days to sing god’s praises",
+          "We’ve no less days to sing God’s praises",
           "Than when we first begun.",
         ],
       ],
@@ -12094,54 +12099,54 @@ export const hymns = [
     number: "181",
     twi: {
       number: "182",
-      title: "yesu anwanwa dɔ",
+      title: "Yesu anwanwa dɔ",
       content: [
         [
           "Me kra ma ne nne so",
           "De naaseε kɔ soro hɔ",
           "Kronkronyε mu.",
           "Obi nni hɔ a ɔbεtumi",
-          "Ayi yesu anwanwa dɔ ayε",
+          "Ayi Yesu anwanwa dɔ ayε",
         ],
         ["Nyesoɔ", "ɔ", "Anwanwa dɔ anwanwa dɔ", "Yesu anwanwa dɔ yi"],
         [
           "Nigye adekyeεm, ‘somdwoe anadwo",
           "Koomyε haw mu, hann adesae mu",
           "Aduro yea mu. hoɔden mereyε m’",
-          "Ne saa yesu anwanwa dɔ yi.",
+          "Ne saa Yesu anwanwa dɔ yi.",
         ],
         [
           "Me bɔne fafiri anidasoɔ",
           "Me pagyafoɔ mahweaseε mu",
           "Nkwa mu o’wuo mu o me bribiara",
-          "Ne yesu anwanwa dɔ yi.",
+          "Ne Yesu anwanwa dɔ yi.",
         ],
       ],
     },
     english: {
       number: "S.S. 271",
-      title: "wonderful love of jesus",
+      title: "wonderful love of Jesus",
       content: [
         [
           "In vain in high and holy lays",
           "My soul her grateful voice would raise",
           "For who can sing the worthy praise",
-          "Of the wonderful love of jesus.",
+          "Of the wonderful love of Jesus.",
           "Refrain",
           "Wonderful love, wonderful love,",
-          "Wonderful love of jesus",
+          "Wonderful love of Jesus",
         ],
         [
           "A joy by day, a peace by night",
           "In storms a calm, in darkness light",
           "In pain a balm, in weakness might",
-          "Is the wonderful love of jesus",
+          "Is the wonderful love of Jesus",
         ],
         [
           "My hope for pardon when i call,",
           "My trust for lifting when i fall",
           "In life, in death, my all",
-          "Is the wonderful love of jesus.",
+          "Is the wonderful love of Jesus.",
         ],
       ],
     },
@@ -12154,7 +12159,7 @@ export const hymns = [
       content: [
         [
           "Ka tetesεm no kyerε me,εsoro ahuntasεm",
-          "Yesu ne n’nuonyam ho asεm,yesu ne ne dɔ ho asεm",
+          "Yesu ne n’nuonyam ho asεm,Yesu ne ne dɔ ho asεm",
           "Ka ‘sεm no pefee kyerε me sε,woreka akyerε abofra",
           "Fisε me yɔ merε na m’abrε,me nni moa efi aka me.",
         ],
@@ -12166,7 +12171,7 @@ export const hymns = [
         ],
         [
           "To w’bo ka ‘sεm no kyerε me,na mentumi nte aseε",
-          "Saa nyame ɔgyeε nwanwa no",
+          "Saa Nyame ɔgyeε nwanwa no",
           "Bɔne ano aduru.",
           "Si so ka kyerε me mpεn pii",
           "Fise meyare awerεfiri",
@@ -12199,7 +12204,7 @@ export const hymns = [
       content: [
         [
           "Tell me the old, old story of unseen things above,",
-          "Of jesus and his glory, of jesu and his love",
+          "Of Jesus and his glory, of jesu and his love",
           "Tell me the story simply, as to a little child",
           "For i am weak and weary, and helpless and defiled",
         ],
@@ -12211,13 +12216,13 @@ export const hymns = [
         ],
         [
           "Tell me the story slowly, that i may take it in",
-          "That wonderful redemption, god’s remedy for sin",
+          "That wonderful redemption, God’s remedy for sin",
           "Tell me the story often, for i forget so soon",
           "The early dew of morning, has passed away at noon.",
         ],
         [
           "Tell me the story softly, with earnest tones, and graves",
-          "Remember i’m the sinner whom jesus came to save",
+          "Remember i’m the sinner whom Jesus came to save",
           "Tell me the story always, if you would really be",
           "In anytime of trouble, a comforter to me",
         ],
@@ -12226,7 +12231,7 @@ export const hymns = [
           "When you have caused to fear, that this world’s empty",
           "Glory, is costing me too dear, yes, and when that",
           "World’s glory is dawning on my soul, tell me the old",
-          "Old story, christ jesus makes thee whole.",
+          "Old story, christ Jesus makes thee whole.",
         ],
       ],
     },
@@ -12238,7 +12243,7 @@ export const hymns = [
       title: "wo yε kεse",
       content: [
         [
-          "O me nyame, sε mede ahodwiri dwene",
+          "O me Nyame, sε mede ahodwiri dwene",
           "Wiase nyinaa a wode wo nsa ayε a",
           "Mehu nsoroma, mete agradaa huuhuu",
           "Wotumi da adi wo wiase nyinaa.",
@@ -12258,7 +12263,7 @@ export const hymns = [
           "Mete nsuo a εwororso ne mframa dεεdε",
         ],
         [
-          "Na sε medwene sε nyame ankame neb a",
+          "Na sε medwene sε Nyame ankame neb a",
           "Na ɔsoma no maa no ba bεwui",
           "Asεndua so, ɔsoaa m’adesoa anigyem’",
           "Ɔtuu mogya, wui de yii me bɔne.",
@@ -12267,7 +12272,7 @@ export const hymns = [
           "Sε Kristo ba wɔ osebɔ denden mu a",
           "Abεfa me a mεnya anigye kεse",
           "Hɔ na mεkoto ahobreaseε ne ayεyie m’",
-          "Na mateam sε me nyame wo yε kεse.",
+          "Na mateam sε me Nyame wo yε kεse.",
         ],
       ],
     },
@@ -12364,7 +12369,7 @@ export const hymns = [
       content: [
         [
           "Nhyira bosuo bi bεgu",
-          "Εyi yε nyame bɔhyε",
+          "Εyi yε Nyame bɔhyε",
           "Ahomegye merε bi bεba",
           "Εfi soro agyenkwa nkyεn.",
         ],
@@ -12390,8 +12395,8 @@ export const hymns = [
         [
           "Nhyira bosuo bi begu",
           "O ma no ntɔ εnnε",
-          "Yεpae mu ka kyerε nyame",
-          "Yeresu frε yesu yi.",
+          "Yεpae mu ka kyerε Nyame",
+          "Yeresu frε Yesu yi.",
         ],
         [
           "Nhyira bosuo bi begu",
@@ -12515,7 +12520,7 @@ export const hymns = [
     },
     english: {
       number: "S.S. 291",
-      title: "something for jesus",
+      title: "something for Jesus",
       content: [
         [
           "Savior, thy dying love thou gavest me,",
@@ -12699,14 +12704,14 @@ export const hymns = [
         [
           "Yε‘ne yεn wura bɔ nsra dabiara",
           "Yεretu kwan kɔ ɔdɔ man mu",
-          "Yεrekɔ fie, yεrenkyin bio, mfi yesu dɔ ho",
+          "Yεrekɔ fie, yεrenkyin bio, mfi Yesu dɔ ho",
           "Anigyesεm, yε ne no nante",
           "Hann a εhyerεn wɔ bethlehem",
           "Rekɔ ɔsoro fie.",
         ],
         [
           "Ɔbɔnekobɔfoɔ bεdom yεn",
-          "Ma yεn nko ma yesu ne tenenee",
+          "Ma yεn nko ma Yesu ne tenenee",
           "Ɔrefrε wo, ansa na anadwo aba",
           "Bεdɔm anigye kuo n’",
           "Ɔbεyi wo ho bɔne ne fi",
@@ -12739,7 +12744,7 @@ export const hymns = [
         [
           "With our leader marching day by day,",
           "To love’s country we are on our way",
-          "We’re going home, never to roam from jesus",
+          "We’re going home, never to roam from Jesus",
           "And his love, his love",
           "O what a joy to walk the road with him,",
           "In the light that shined on behtlehem",
@@ -12748,7 +12753,7 @@ export const hymns = [
         ],
         [
           "Wand’ring sinner, come and join the fight,",
-          "March with us for jesus and the right",
+          "March with us for Jesus and the right",
           "For you he calls, ere darkness falls come,",
           "Join the happy throng, glad throng",
           "O he will take away your sin nd dress,",
@@ -12763,13 +12768,13 @@ export const hymns = [
     number: "191",
     twi: {
       number: "192",
-      title: "siesie wo ho hyia wo nyame",
+      title: "siesie wo ho hyia wo Nyame",
       content: [
         [
           "Howhini, wo da so kyinkyin",
-          "Wayera afi nyame nnwan mu",
+          "Wayera afi Nyame nnwan mu",
           "Εnti wo nte ne frε yi",
-          "Yε ahoboa hyia wo nyame.",
+          "Yε ahoboa hyia wo Nyame.",
         ],
         [
           "Nyesoɔ",
@@ -12783,31 +12788,31 @@ export const hymns = [
           "Adεn na wonni botae bi’aa",
           "Bere a wo nkwanna retwam",
           "Na wote ahuhubra mu",
-          "Yε ahoboa hyia wo nyame.",
+          "Yε ahoboa hyia wo Nyame.",
         ],
         [
           "Εnti wo nte wo nnamfo a",
           "Wɔdɔ wo no adesrε yi",
           "Εbia ɔkkyena rento wo",
-          "Na wo’kɔ a akɔhyia nyame.",
+          "Na wo’kɔ a akɔhyia Nyame.",
         ],
         [
           "Sε wo po nsa tofrε yi",
           "Na woma honhom no kɔ a",
           "Wo bεhu wo mɔborɔ tebea",
-          "Sε wontumi nhyia nyame.",
+          "Sε wontumi nhyia Nyame.",
         ],
       ],
     },
     english: {
       number: "S.S. 633",
-      title: "prepare to meet thy god",
+      title: "prepare to meet thy God",
       content: [
         [
           "Careless soul, why will you linger",
-          "Wand’ring form the fold of god?",
+          "Wand’ring form the fold of God?",
           "Hear you not the invitation?",
-          "O prepare to meet thy god.",
+          "O prepare to meet thy God.",
         ],
         [
           "Chorus",
@@ -12821,19 +12826,19 @@ export const hymns = [
           "Why so tho’tless are you standing",
           "While the fleeting years go by,",
           "And your life is spent in folly?",
-          "O prepare to meet thy god.",
+          "O prepare to meet thy God.",
         ],
         [
           "Hear you not the earnest pleadings",
           "Of your friends that wish thou well?",
           "And perhaps before tomorrow",
-          "You’ll be called to meet your god.",
+          "You’ll be called to meet your God.",
         ],
         [
           "If you spurn the invitation",
           "Till the spirit shall depart",
           "Then you’ll see your sad condition,",
-          "Unprepared to meet thy god.",
+          "Unprepared to meet thy God.",
         ],
       ],
     },
@@ -12845,7 +12850,7 @@ export const hymns = [
       title: "ne nyinaa yε",
       content: [
         [
-          "Wɔ nyame y’agyenkwa dɔ m’",
+          "Wɔ Nyame y’agyenkwa dɔ m’",
           "Bribi’ a bε yε yie",
           "N’adɔeε nsesa, ɔde kyε",
           "Ne nyinaa yε",
@@ -12859,7 +12864,7 @@ export const hymns = [
           "Bribi’a bε yε yie",
           "Yε wɔ nkwagye a εyε pε",
           "Ne nyinaa yε",
-          "Yε‘anigye sε yεtwere nyame a",
+          "Yε‘anigye sε yεtwere Nyame a",
           "Yε so aba yε tena Kristo mu a",
           "Honhom no di yε anim kɔ ahoteεm’",
           "Sε sε εyε yie.",
@@ -12974,7 +12979,7 @@ export const hymns = [
         [
           "O ɔdɔ a εhyehyεε nkwagye",
           "O adom a εde brε nnipa",
-          "O abun kεse nyame twaeε wɔ kalvary.",
+          "O abun kεse Nyame twaeε wɔ kalvary.",
         ],
       ],
     },
@@ -12995,19 +13000,19 @@ export const hymns = [
           "There my burdened soul found liberty, at Calvary",
         ],
         [
-          "By god’s word at last my sin i learned,",
+          "By God’s word at last my sin i learned,",
           "Law i’d spurned, till my guilty soul imploring",
           "Turned to calvary",
         ],
         [
-          "Now i’ve giv’n to jesus everything,",
+          "Now i’ve giv’n to Jesus everything,",
           "Now i gladly own him as my king,",
           "Now my raptured soul can only sing of calvary",
         ],
         [
           "Oh, the love that drew salvation’s plan",
           "Oh, the grace that bro’t it down to man,",
-          "Oh the mighty gulf that god did span at calvary.",
+          "Oh the mighty gulf that God did span at calvary.",
         ],
       ],
     },
@@ -13057,7 +13062,7 @@ export const hymns = [
       title: "my savior’s love",
       content: [
         [
-          "I stand amazed in the presence of jesus the nazarene",
+          "I stand amazed in the presence of Jesus the nazarene",
           "And wonder how he could love me, a sinner,",
           "Condemned, unclean.",
         ],

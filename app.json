@@ -1,35 +1,36 @@
 {
   "expo": {
-    "name": "hymnal",
-    "slug": "hymnal",
+    "name": "Kristo Asɔre Nnwom",
+    "slug": "kan",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "icon": "./assets/images/appstore.png",
+    "scheme": "kan",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/appstore.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f4f4f4"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.dishplug.hymnal"
+      "bundleIdentifier": "com.dishplug.kan",
+      "icon": "./assets/images/appstore.png"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/images/appstore.png",
+        "backgroundColor": "#FFFFFF"
       },
-      "package": "com.dishplug.hymnal"
+      "package": "com.dishplug.kan"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": ["expo-router", "expo-asset"],
+    "plugins": ["expo-router", "expo-asset", "expo-font"],
     "experiments": {
       "typedRoutes": true
     },
@@ -38,7 +39,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "629c2ad8-c26e-4e0c-91cf-76c5dad2a926"
+        "projectId": "bcbd1f44-1eeb-4ab7-87a3-1405af499730"
       }
     },
     "newArchEnabled": true,

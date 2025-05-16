@@ -1,0 +1,31 @@
+{
+  "icons": {
+    "primary": {
+      "ios": {
+        "20": "./images/icon-20.png",
+        "29": "./images/icon-29.png",
+        "40": "./images/icon-40.png",
+        "60": "./images/icon-60.png",
+        "76": "./images/icon-76.png",
+        "83.5": "./images/icon-83.5.png",
+        "1024": "./images/icon-1024.png"
+      },
+      "android": {
+        "mdpi": "./images/icon-48.png",
+        "hdpi": "./images/icon-72.png",
+        "xhdpi": "./images/icon-96.png",
+        "xxhdpi": "./images/icon-144.png",
+        "xxxhdpi": "./images/icon-192.png"
+      }
+    },
+    "splash": {
+      "ios": "./images/splash.png",
+      "android": "./images/splash.png"
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Hymns App Icon Assets",
+    "lastUpdated": "2024-03-19"
+  }
+}
