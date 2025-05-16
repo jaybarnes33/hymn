@@ -158,7 +158,7 @@ export default function Search() {
               keyExtractor={(item) => item.number}
               contentContainerStyle={{ paddingBottom: 500 }}
               renderItem={({ item }) => {
-                if (!item[language].content.length) {
+                if (!item[language].content || !item[language].content.length) {
                   return null;
                 }
 

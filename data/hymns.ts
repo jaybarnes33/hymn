@@ -104,7 +104,7 @@ export const hymns = [
         [
           "Sε yεnyane a behyira yεn",
           "Ansa na y'afa yεn akwan so",
-          "Kosi sε odo kεse no",
+          "Kosi sε ɔdɔ kεse no",
           "De yεbεpue ɔsoro nohoaa",
         ],
       ],
@@ -294,15 +294,15 @@ export const hymns = [
     number: "5",
     twi: {
       number: "5",
-      title: "odo kronkron",
+      title: "ɔdɔ kronkron",
       content: [
         [
-          "Odo kronkron εkyεn ‘do biara",
+          "ɔdɔ kronkron εkyεn ‘dɔ biara",
           "Soro anigye aba fam ha",
           "Fa yεn mu yε wo tenabea",
           "Ma wo ahummobo nni mu",
           "Yesu wo yε awerεkyekye",
-          "Wo yε do a enni ano",
+          "Wo yε dɔ a enni ano",
           "Fa wo nkwagye no bεsra yεn",
           "Bεwura koma biara mu.",
         ],
@@ -314,7 +314,7 @@ export const hymns = [
           "Yi bone ho do fi yεn mu",
           "Ne yεn afodi adesoa no",
           "Wie adwuma a woahyε ase no",
-          "Fa yεn ko daa nkwa no mu.",
+          "Fa yεn kɔ daa nkwa no mu.",
         ],
         [
           "Tumfoo agya bra bεgye yεn",
@@ -322,9 +322,9 @@ export const hymns = [
           "San bra na bεtena yεn mu",
           "Ngya wo ntomadan yi bio",
           "Wo na yεbεhyira wo daa daa",
-          "Na yεasom wo sεsprp dom no",
-          "Yε de mpaebo ne ayεyi a",
-          "Εntwa da atena wo do mu.",
+          "Na yεasom wo sε sroo dɔm no",
+          "Yε de mpaebɔ ne ayεyi a",
+          "εntwa da atena wo do mu.",
         ],
         [
           "Afei wie woabode foforo",
@@ -401,13 +401,13 @@ export const hymns = [
           "Mma wobo mfu OKristoni",
           "Fa ntoboase ye wade nyinaa",
           "Nyame na ose mma w obo mfu",
-          "OKristoni ee mma wobo mfu.",
+          "Okristoni ee mma wobo mfu.",
         ],
         [
           "Kae mmra nsεm no OKristoni",
           "Na bo mmoden di so daa nyinaa",
           "Nyame na ose OKristoni ee",
-          "Sε wodo me a di me mmra so.",
+          "Sε wodɔ me a di me mmra so.",
         ],
         [
           "Gyae kokonsa na ka nokorε",
@@ -791,7 +791,7 @@ export const hymns = [
     number: "12",
     twi: {
       number: "12",
-      title: "εyε se metwere yesu",
+      title: "εyε sε metwere yesu",
       content: [
         [
           "εyε sε metwere yesu",
@@ -5626,7 +5626,7 @@ export const hymns = [
         [
           "W’ahendwa anim dɔnhwere biako",
           "Mame anigye kεse",
-          "Bere a mpaebom’ me ne wo, me Nyame",
+          "Bere a mpaebɔm’ me ne wo, me Nyame",
           "Di nkɔmmɔ sε adamfo.",
         ],
         [
@@ -11199,6 +11199,51 @@ export const hymns = [
   {
     number: "169",
     twi: {
+      number: "169",
+      title: "Medi Yesu Akyi",
+      content: [
+        [
+          "Mεdi m'Agyenkwa akyi",
+          "Akɔ bonhwa no mu.",
+          "Deε nhwiren abu na nsuo dεεdε sene.",
+          "Baabiara ɔkyerε no",
+          "Mεdi n'akyi akɔ",
+          "Mεdi n'akyi kɔsi sε mεnya ahenkyε no.",
+        ],
+        [
+          "Nyesoɔ",
+
+          "Mεdi n'akyi, mεdi Yesu akyi",
+          "Baabiara ɔbεkyerε mεdi n'akyi daa.",
+          "Mεdi n'akyi mεdi Yesu akyi",
+          "Baabiara ɔkyerε me mεdi n'akyi akɔ.",
+        ],
+        [
+          "Mεdi m'Agyenkwa akyi",
+          "Akɔ bonhwa no mu.",
+          "Deε asorɔkye rebɔ na εsum aduru no",
+          "Sε ne nsa di m'anim yi merensuro da bi",
+          "Mmusuo ntumi nhuna me sε",
+          "M'Awurade bεn me a.",
+        ],
+        [
+          "Bonhwa no ase anaa mmepɔ atifi",
+          "Me kra bεkɔ so abεn Agyenkwa no daa",
+          "ɔbεgya me dwoodwoo akwan a wafa soɔ no",
+          "Akɔ deε wɔhyia Nyame kokoɔ so.",
+        ],
+      ],
+    },
+    english: {
+      number: null,
+      title: null,
+      content: null,
+    },
+  },
+
+  {
+    number: "170",
+    twi: {
       number: "170",
       title: "metwere basa a εnwu da no",
       content: [
@@ -11264,7 +11309,7 @@ export const hymns = [
     },
   },
   {
-    number: "170",
+    number: "171",
     twi: {
       number: "171",
       title: "mεkɔ deε wo pε sε mekɔ",
@@ -11353,7 +11398,7 @@ export const hymns = [
     },
   },
   {
-    number: "171",
+    number: "172",
     twi: {
       number: "172",
       title: "paanoo no bubuo",
@@ -11407,7 +11452,7 @@ export const hymns = [
     },
   },
   {
-    number: "172",
+    number: "173",
     twi: {
       number: "173",
       title: "bɔnhwa mu sukooko",
@@ -11490,7 +11535,7 @@ export const hymns = [
     },
   },
   {
-    number: "173",
+    number: "174",
     twi: {
       number: "174",
       title: "Nyame asafo",
@@ -11558,7 +11603,7 @@ export const hymns = [
     },
   },
   {
-    number: "174",
+    number: "175",
     twi: {
       number: "175",
       title: "aban kεse",
@@ -11638,7 +11683,7 @@ export const hymns = [
     },
   },
   {
-    number: "175",
+    number: "176",
     twi: {
       number: "176",
       title: "asεndua frankaa",
@@ -11717,7 +11762,7 @@ export const hymns = [
     },
   },
   {
-    number: "176",
+    number: "177",
     twi: {
       number: "177",
       title: "Yesu frε yεn",
@@ -11786,7 +11831,7 @@ export const hymns = [
     },
   },
   {
-    number: "177",
+    number: "178",
     twi: {
       number: "178",
       title: "monyina ako no",
@@ -11862,7 +11907,7 @@ export const hymns = [
     },
   },
   {
-    number: "178",
+    number: "179",
     twi: {
       number: "179",
       title: "me gyefoɔ",
@@ -11941,7 +11986,7 @@ export const hymns = [
     },
   },
   {
-    number: "179",
+    number: "180",
     twi: {
       number: "180",
       title: "o sε mεyε sε wo",
@@ -12021,7 +12066,7 @@ export const hymns = [
     },
   },
   {
-    number: "180",
+    number: "181",
     twi: {
       number: "181",
       title: "adom nwanwa",
@@ -12096,7 +12141,7 @@ export const hymns = [
     },
   },
   {
-    number: "181",
+    number: "182",
     twi: {
       number: "182",
       title: "Yesu anwanwa dɔ",
@@ -12152,7 +12197,7 @@ export const hymns = [
     },
   },
   {
-    number: "182",
+    number: "183",
     twi: {
       number: "183",
       title: "ka tetesεm no kyerε me",
@@ -12237,7 +12282,7 @@ export const hymns = [
     },
   },
   {
-    number: "183",
+    number: "184",
     twi: {
       number: "184",
       title: "wo yε kεse",
@@ -12283,7 +12328,7 @@ export const hymns = [
     },
   },
   {
-    number: "184",
+    number: "185",
     twi: {
       number: "185",
       title: "asaase a εkorɔn",
@@ -12362,7 +12407,7 @@ export const hymns = [
     },
   },
   {
-    number: "185",
+    number: "186",
     twi: {
       number: "186",
       title: "nhyira bosuo",
@@ -12413,7 +12458,7 @@ export const hymns = [
     },
   },
   {
-    number: "186",
+    number: "187",
     twi: {
       number: "187",
       title: "soro awia hann",
@@ -12481,7 +12526,7 @@ export const hymns = [
     },
   },
   {
-    number: "187",
+    number: "188",
     twi: {
       number: "188",
       title: "mεyε biribi ama yesu",
@@ -12547,7 +12592,7 @@ export const hymns = [
     },
   },
   {
-    number: "188",
+    number: "189",
     twi: {
       number: "189",
       title: "ka me ho awurade",
@@ -12590,7 +12635,7 @@ export const hymns = [
     },
   },
   {
-    number: "189",
+    number: "190",
     twi: {
       number: "190",
       title: "m’asi mebo",
@@ -12675,7 +12720,7 @@ export const hymns = [
     },
   },
   {
-    number: "190",
+    number: "191",
     twi: {
       number: "191",
       title: "yerepemso kɔ",
@@ -12765,7 +12810,7 @@ export const hymns = [
     },
   },
   {
-    number: "191",
+    number: "192",
     twi: {
       number: "192",
       title: "siesie wo ho hyia wo Nyame",
@@ -12844,7 +12889,7 @@ export const hymns = [
     },
   },
   {
-    number: "192",
+    number: "193",
     twi: {
       number: "193",
       title: "ne nyinaa yε",
@@ -12888,7 +12933,7 @@ export const hymns = [
     },
   },
   {
-    number: "193",
+    number: "194",
     twi: {
       number: "194",
       title: "yεde Kristo kyerε wiase",
@@ -12949,7 +12994,7 @@ export const hymns = [
     },
   },
   {
-    number: "194",
+    number: "195",
     twi: {
       number: "195",
       title: "wɔ kalvary",
@@ -13018,7 +13063,7 @@ export const hymns = [
     },
   },
   {
-    number: "195",
+    number: "196",
     twi: {
       number: "196",
       title: "m’agyenkwa dɔ",

@@ -71,7 +71,8 @@ const Details = () => {
           </TouchableOpacity>
           <View className="flex-1 px-4">
             <Text className="text-white uppercase text-lg font-semibold text-center">
-              {parsed.number}. {item.title}
+              {parsed.number}.{" "}
+              {capitalizeFirstLetter(item.title, true) || "Untitled"}
             </Text>
           </View>
           <TouchableOpacity
