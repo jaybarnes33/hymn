@@ -2,13 +2,12 @@
   "expo": {
     "name": "Kristo Asɔre Nnwom",
     "slug": "kan",
-    "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
     "scheme": "kan",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/logo-transparent.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#f4f4f4"
     },
@@ -20,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/launcher.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#FFFFFF"
       },
 
